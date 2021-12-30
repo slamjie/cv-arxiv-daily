@@ -50,5 +50,5 @@ jobs:
           commit-message: "update today cv arxiv"
           files: README.md cv-arxiv-daily.json
           rebase: 'true'
-          name: ${{ secrets.GITHUB_NAME }}
-          email: ${{ secrets.GITHUB_EMAIL }}
+          name: ${{ secrets.G_NAME }}
+          email: ${{ secrets.G_EMAIL }}
