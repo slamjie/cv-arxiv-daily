@@ -102,3 +102,16 @@
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|null|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
 |**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
+## dynamic obstacle
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles underNon-Parametric Uncertainty: A Hilbert Space Approach**|Anish Gupta, Unni Krishnan R Nair, PS Naga Jyotish, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v1](http://arxiv.org/abs/2112.13034v1)|null|
+|**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
+|**2021-12-22**|**Real-Time Multi-Convex Model Predictive Control for Occlusion Free Target Tracking**|Houman Masnavi, Vivek Adajania, Karl Kruusamae, Arun Kumar Singh|[2112.12177v1](http://arxiv.org/abs/2112.12177v1)|null|
+|**2021-12-13**|**Aerial Chasing of a Dynamic Target in Complex Environments**|Boseong Felipe Jeon, Changhyeon Kim, Hojoon Shin, H. Jin Kim|[2112.06474v1](http://arxiv.org/abs/2112.06474v1)|null|
+|**2021-11-03**|**Realtime Trajectory Smoothing with Neural Nets**|Shohei Fujii, Quang-Cuong Pham|[2111.02165v1](http://arxiv.org/abs/2111.02165v1)|null|
+|**2021-10-23**|**Integrated Task and Motion Planning for Safe Legged Navigation in Partially Observable Environments**|Abdulaziz Shamsah, Jonas Warnke, Zhaoyuan Gu, Ye Zhao|[2110.12097v2](http://arxiv.org/abs/2110.12097v2)|**[link](https://github.com/GTLIDAR/safe-nav-locomotion)**|
+|**2021-10-20**|**A Fast Planning Approach for 3D Short Trajectory with a Parallel Framework**|Han Chen, Shengyang Chen, Peng Lu, Chih-Yung Wen|[2110.10376v1](http://arxiv.org/abs/2110.10376v1)|null|
+|**2021-10-20**|**Real-time Identification and Simultaneous Avoidance of Static and Dynamic Obstacles on Point Cloud for UAVs Navigation**|Han Chen, Peng Lu|[2110.10360v1](http://arxiv.org/abs/2110.10360v1)|null|
+|**2021-10-18**|**FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update**|Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, Ji Zhang|[2110.09460v1](http://arxiv.org/abs/2110.09460v1)|**[link](https://github.com/michaelfyang/far_planner)**|
+|**2021-10-02**|**AB-Mapper: Attention and BicNet Based Multi-agent Path Finding for Dynamic Crowded Environment**|Huifeng Guan, Yuan Gao, Min Zhao, Yong Yang, Fuqin Deng, Tin Lun Lam|[2110.00760v1](http://arxiv.org/abs/2110.00760v1)|null|
