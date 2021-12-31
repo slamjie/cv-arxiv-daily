@@ -140,8 +140,8 @@ if __name__ == "__main__":
                 "SFM",
                 "\"Structure from Motion\"",
                 "\"3D Reconstruction\"",
-                # "\"Depth Estimation\"",
-                # "\"Long Term Localization\""
+                "\"PointCloud clustering\"",
+                "\"dynamic obstacle\""
     ]
     for keyword in keywords:
  
