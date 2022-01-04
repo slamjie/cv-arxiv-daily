@@ -92,6 +92,7 @@
 ## 3D Reconstruction
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2021-12-30**|**Visual and Object Geo-localization: A Comprehensive Survey**|Daniel Wilson, Xiaohan Zhang, Waqas Sultani, Safwan Wshah|[2112.15202v1](http://arxiv.org/abs/2112.15202v1)|null|
 |**2021-12-29**|**ACDNet: Adaptively Combined Dilated Convolution for Monocular Panorama Depth Estimation**|Chuanqing Zhuang, Zhengda Lu, Yiqun Wang, Jun Xiao, Ying Wang|[2112.14440v1](http://arxiv.org/abs/2112.14440v1)|null|
 |**2021-12-28**|**Multimodal perception for dexterous manipulation**|Guanqun Cao, Shan Luo|[2112.14298v1](http://arxiv.org/abs/2112.14298v1)|null|
 |**2021-12-24**|**Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation**|Zhiwei Liu, Xiangyu Zhu, Lu Yang, Xiang Yan, Ming Tang, Zhen Lei, Guibo Zhu, Xuetao Feng, Yan Wang, Jinqiao Wang|[2112.12917v1](http://arxiv.org/abs/2112.12917v1)|null|
@@ -101,7 +102,6 @@
 |**2021-12-19**|**MoCaNet: Motion Retargeting in-the-wild via Canonicalization Networks**|Wentao Zhu, Zhuoqian Yang, Ziang Di, Wayne Wu, Yizhou Wang, Chen Change Loy|[2112.10082v2](http://arxiv.org/abs/2112.10082v2)|null|
 |**2021-12-17**|**Improving neural implicit surfaces geometry with patch warping**|François Darmon, Bénédicte Bascle, Jean-Clément Devaux, Pascal Monasse, Mathieu Aubry|[2112.09648v1](http://arxiv.org/abs/2112.09648v1)|**[link](https://github.com/fdarmon/neuralwarp)**|
 |**2021-12-13**|**GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network**|Armin Masoumian, Hatem A. Rashwan, Saddam Abdulwahab, Julian Cristiano, Domenec Puig|[2112.06782v1](http://arxiv.org/abs/2112.06782v1)|**[link](https://github.com/arminmasoumian/gcndepth)**|
-|**2021-12-12**|**MVLayoutNet:3D layout reconstruction with multi-view panoramas**|Zhihua Hu, Bo Duan, Yanfeng Zhang, Mingwei Sun, Jingwei Huang|[2112.06133v1](http://arxiv.org/abs/2112.06133v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
