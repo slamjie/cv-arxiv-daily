@@ -135,13 +135,9 @@ if __name__ == "__main__":
     keywords = ["SLAM",
                 "\"Camera Localization\"",
                 "\"Visual Localization\"",
-                "\"Keypoint Detection\"",
-                "\"Image Matching\"",
-                "SFM",
-                "\"Structure from Motion\"",
-                "\"3D Reconstruction\"",
                 "\"PointCloud\"",
-                "\"dynamic obstacle\""
+                "\"dynamic obstacle\"",
+                "\"obstacle perception\""
     ]
     for keyword in keywords:
  
