@@ -118,7 +118,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles underNon-Parametric Uncertainty: A Hilbert Space Approach**|Anish Gupta, Unni Krishnan R Nair, PS Naga Jyotish, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v1](http://arxiv.org/abs/2112.13034v1)|null|
+|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles under Non-Parametric Uncertainty: A Hilbert Space Approach**|Unni Krishnan R Nair, Anish Gupta, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v2](http://arxiv.org/abs/2112.13034v2)|null|
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
 |**2021-12-22**|**Real-Time Multi-Convex Model Predictive Control for Occlusion Free Target Tracking**|Houman Masnavi, Vivek Adajania, Karl Kruusamae, Arun Kumar Singh|[2112.12177v1](http://arxiv.org/abs/2112.12177v1)|null|
 |**2021-12-13**|**Aerial Chasing of a Dynamic Target in Complex Environments**|Boseong Felipe Jeon, Changhyeon Kim, Hojoon Shin, H. Jin Kim|[2112.06474v1](http://arxiv.org/abs/2112.06474v1)|null|
