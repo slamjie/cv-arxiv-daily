@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
+|**2022-01-10**|**Why-So-Deep: Towards Boosting Previously Trained Models for Visual Place Recognition**|M. Usman Maqbool Bhutta, Yuxiang Sun, Darwin Lau, Ming Liu|[2201.03212v1](http://arxiv.org/abs/2201.03212v1)|null|
 |**2022-01-04**|**Formulations of Hydrodynamic Force in the Transition Stage of the Water Entry of Linear Wedges with Constant and Varying Speeds**|Xueliang Wen, Peiqing Liu, Alessandro Del Buono, Qiulin Qu, Alessandro Iafrati|[2201.00959v1](http://arxiv.org/abs/2201.00959v1)|null|
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech, Vadim Indelman|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim, Jinwoo Jeon, Hyun Myung|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
@@ -9,8 +11,6 @@
 |**2021-12-24**|**3D Point Cloud Reconstruction and SLAM as an Input**|Ziyu Li, Fangyang Ye, Xinran Guan|[2112.12907v1](http://arxiv.org/abs/2112.12907v1)|null|
 |**2021-12-22**|**NICE-SLAM: Neural Implicit Scalable Encoding for SLAM**|Zihan Zhu, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng Cui, Martin R. Oswald, Marc Pollefeys|[2112.12130v1](http://arxiv.org/abs/2112.12130v1)|null|
 |**2021-12-19**|**M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots**|Jie Yin, Ang Li, Tao Li, Wenxian Yu, Danping Zou|[2112.13659v1](http://arxiv.org/abs/2112.13659v1)|**[link](https://github.com/SJTU-ViSYS/M2DGR)**|
-|**2021-12-18**|**Fast and Robust Registration of Partially Overlapping Point Clouds**|Eduardo Arnold, Sajjad Mozaffari, Mehrdad Dianati|[2112.09922v1](http://arxiv.org/abs/2112.09922v1)|**[link](https://github.com/eduardohenriquearnold/fastreg)**|
-|**2021-12-17**|**Symmetry-aware Neural Architecture for Embodied Visual Navigation**|Shuang Liu, Takayuki Okatani|[2112.09515v1](http://arxiv.org/abs/2112.09515v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -35,7 +35,7 @@
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang, Kaili Wang, Yi Wang, Di Guo, Huaping Liu, Fuchun Sun|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
 |**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon, Ayoung Kim|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh, Manuel Lopez Antequera, Pau Gargallo, Yubin Kuang, Carl Toft, Fredrik Kahl, Torsten Sattler|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
-|**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v2](http://arxiv.org/abs/2109.04041v2)|null|
+|**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth, Timothy D. Barfoot|[2109.04041v2](http://arxiv.org/abs/2109.04041v2)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-08**|**Smart Power Supply for UAV Agility Enhancement Using Deep Neural Networks**|Yanze Liu, Xuhui Chen, Yanhai Du, Rui Liu|[2201.02838v1](http://arxiv.org/abs/2201.02838v1)|null|
 |**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles under Non-Parametric Uncertainty: A Hilbert Space Approach**|Unni Krishnan R Nair, Anish Gupta, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v2](http://arxiv.org/abs/2112.13034v2)|null|
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
 |**2021-12-22**|**Real-Time Multi-Convex Model Predictive Control for Occlusion Free Target Tracking**|Houman Masnavi, Vivek Adajania, Karl Kruusamae, Arun Kumar Singh|[2112.12177v1](http://arxiv.org/abs/2112.12177v1)|null|
@@ -62,7 +63,6 @@
 |**2021-10-20**|**A Fast Planning Approach for 3D Short Trajectory with a Parallel Framework**|Han Chen, Shengyang Chen, Peng Lu, Chih-Yung Wen|[2110.10376v1](http://arxiv.org/abs/2110.10376v1)|null|
 |**2021-10-20**|**Real-time Identification and Simultaneous Avoidance of Static and Dynamic Obstacles on Point Cloud for UAVs Navigation**|Han Chen, Peng Lu|[2110.10360v1](http://arxiv.org/abs/2110.10360v1)|null|
 |**2021-10-18**|**FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update**|Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, Ji Zhang|[2110.09460v1](http://arxiv.org/abs/2110.09460v1)|**[link](https://github.com/michaelfyang/far_planner)**|
-|**2021-10-02**|**AB-Mapper: Attention and BicNet Based Multi-agent Path Finding for Dynamic Crowded Environment**|Huifeng Guan, Yuan Gao, Min Zhao, Yong Yang, Fuqin Deng, Tin Lun Lam|[2110.00760v1](http://arxiv.org/abs/2110.00760v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
