@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli, Claudio Zito|[2201.03814v1](http://arxiv.org/abs/2201.03814v1)|null|
 |**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty, David M. Rosen, John J. Leonard|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
@@ -10,10 +11,10 @@
 |**2021-12-29**|**Efficient Belief Space Planning in High-Dimensional State Spaces using PIVOT: Predictive Incremental Variable Ordering Tactic**|Khen Elimelech, Vadim Indelman|[2112.14428v1](http://arxiv.org/abs/2112.14428v1)|null|
 |**2021-12-27**|**UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping**|Hyunjun Lim, Jinwoo Jeon, Hyun Myung|[2112.13515v1](http://arxiv.org/abs/2112.13515v1)|**[link](https://github.com/url-kaist/uv-slam)**|
 |**2021-12-25**|**Simultaneous Location of Rail Vehicles and Mapping of Environment with Multiple LiDARs**|Yusheng Wang, Weiwei Song, Yidong Lou, Fei Huang, Zhiyong Tu, Shimin Zhang|[2112.13224v1](http://arxiv.org/abs/2112.13224v1)|null|
-|**2021-12-25**|**Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**|Peng Huang, Liekang Zeng, Xu Chen, Ke Luo, Zhi Zhou, Shuai Yu|[2112.13222v1](http://arxiv.org/abs/2112.13222v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu, Youchen Wang, Bin Xu, Jun Zhang, Jian Ren, Stefan Poslad, Pengfei Xu|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng, Hyo Jin Kim, Vincent Lee, Daniel Detone, Tsun-Yi Yang, Tianwei Shen, Eddy Ilg, Vassileios Balntas, Krystian Mikolajczyk, Chris Sweeney|[2112.12785v1](http://arxiv.org/abs/2112.12785v1)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang, Muhamad Risqi U. Saputra, Chris Xiaoxuan Lu, Niki Trigon, Andrew Markham|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-09-20**|**Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v1](http://arxiv.org/abs/2109.09884v1)|null|
@@ -23,7 +24,6 @@
 |**2021-08-09**|**DistillPose: Lightweight Camera Localization Using Auxiliary Learning**|Yehya Abouelnaga, Mai Bui, Slobodan Ilic|[2108.03819v1](http://arxiv.org/abs/2108.03819v1)|null|
 |**2021-07-08**|**Uncertainty-Aware Camera Pose Estimation from Points and Lines**|Alexander Vakhitov, Luis Ferraz Colomina, Antonio Agudo, Francesc Moreno-Noguer|[2107.03890v1](http://arxiv.org/abs/2107.03890v1)|null|
 |**2021-07-07**|**Video-Based Camera Localization Using Anchor View Detection and Recursive 3D Reconstruction**|Hajime Taira, Koki Onbe, Naoyuki Miyashita, Masatoshi Okutomi|[2107.03068v1](http://arxiv.org/abs/2107.03068v1)|null|
-|**2021-07-01**|**Deep auxiliary learning for visual localization using colorization task**|Mi Tian, Qiong Nie, Hao Shen, Xiahua Xia|[2107.00222v1](http://arxiv.org/abs/2107.00222v1)|null|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-01-17**|**Risk-aware Trajectory Sampling for Quadrotor Obstacle Avoidance in Dynamic Environments**|Gang Chen, Peng Peng, Peihan Zhang, Wei Dong|[2201.06645v1](http://arxiv.org/abs/2201.06645v1)|null|
 |**2022-01-08**|**Smart Power Supply for UAV Agility Enhancement Using Deep Neural Networks**|Yanze Liu, Xuhui Chen, Yanhai Du, Rui Liu|[2201.02838v1](http://arxiv.org/abs/2201.02838v1)|null|
 |**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles under Non-Parametric Uncertainty: A Hilbert Space Approach**|Unni Krishnan R Nair, Anish Gupta, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v2](http://arxiv.org/abs/2112.13034v2)|null|
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
@@ -62,7 +63,6 @@
 |**2021-10-23**|**Integrated Task and Motion Planning for Safe Legged Navigation in Partially Observable Environments**|Abdulaziz Shamsah, Jonas Warnke, Zhaoyuan Gu, Ye Zhao|[2110.12097v2](http://arxiv.org/abs/2110.12097v2)|**[link](https://github.com/GTLIDAR/safe-nav-locomotion)**|
 |**2021-10-20**|**A Fast Planning Approach for 3D Short Trajectory with a Parallel Framework**|Han Chen, Shengyang Chen, Peng Lu, Chih-Yung Wen|[2110.10376v1](http://arxiv.org/abs/2110.10376v1)|null|
 |**2021-10-20**|**Real-time Identification and Simultaneous Avoidance of Static and Dynamic Obstacles on Point Cloud for UAVs Navigation**|Han Chen, Peng Lu|[2110.10360v1](http://arxiv.org/abs/2110.10360v1)|null|
-|**2021-10-18**|**FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update**|Fan Yang, Chao Cao, Hongbiao Zhu, Jean Oh, Ji Zhang|[2110.09460v1](http://arxiv.org/abs/2110.09460v1)|**[link](https://github.com/michaelfyang/far_planner)**|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
