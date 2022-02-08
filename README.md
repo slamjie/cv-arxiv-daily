@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Yanmin Wu, Zhiqiang Deng, Wenkai Sun, Sonya Coleman, Dermot Kerr|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan, Laura Oliva, Javier Civera, Rudolph Triebel|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
 |**2022-01-30**|**Joint Vehicular Localization and Reflective Mapping Based on Team Channel-SLAM**|Xinghe Chu, Zhaoming Lu, David Gesbert, Luhan Wang, Xiangming Wen, Muqing Wu, Meiling Li|[2201.12726v1](http://arxiv.org/abs/2201.12726v1)|null|
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan, Nevrez Imamoglu, Oguzhan Guclu, Ali Osman Serhatoglu, Weimin Wang, Ahmet Burak Can, Ryosuke Nakamura|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
-|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v1](http://arxiv.org/abs/2201.09862v1)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
+|**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2022-01-11**|**Multi-Hypothesis Scan Matching through Clustering**|Giorgio Iavicoli, Claudio Zito|[2201.03814v2](http://arxiv.org/abs/2201.03814v2)|null|
 |**2022-01-11**|**Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM**|Kevin J. Doherty, David M. Rosen, John J. Leonard|[2201.03773v1](http://arxiv.org/abs/2201.03773v1)|null|
-|**2022-01-10**|**High-resolution Ecosystem Mapping in Repetitive Environments Using Dual Camera SLAM**|Brian M. Hopkinson, Suchendra M. Bhandarkar|[2201.03364v1](http://arxiv.org/abs/2201.03364v1)|**[link](https://github.com/bmhopkinson/hyslam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-03**|**Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization**|Andrea Vallone, Frederik Warburg, Hans Hansen, Søren Hauberg, Javier Civera|[2202.01821v1](http://arxiv.org/abs/2202.01821v1)|null|
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu, Yalin Bastanlar|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte, Georg Bökman, Axel Flinth, Fredrik Kahl|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
@@ -36,7 +37,6 @@
 |**2021-10-05**|**Season-invariant GNSS-denied visual localization for UAVs**|Jouko Kinnari, Francesco Verdoja, Ville Kyrki|[2110.01967v1](http://arxiv.org/abs/2110.01967v1)|**[link](https://github.com/aalto-intelligent-robotics/sivl)**|
 |**2021-09-30**|**Forming a sparse representation for visual place recognition using a neurorobotic approach**|Sylvain Colomer, Nicolas Cuperlier, Guillaume Bresson, Olivier Romain|[2109.14916v1](http://arxiv.org/abs/2109.14916v1)|null|
 |**2021-09-22**|**Audio-Visual Grounding Referring Expression for Robotic Manipulation**|Yefei Wang, Kaili Wang, Yi Wang, Di Guo, Huaping Liu, Fuchun Sun|[2109.10571v1](http://arxiv.org/abs/2109.10571v1)|null|
-|**2021-09-10**|**Line as a Visual Sentence: Context-aware Line Descriptor for Visual Localization**|Sungho Yoon, Ayoung Kim|[2109.04753v1](http://arxiv.org/abs/2109.04753v1)|**[link](https://github.com/yosungho/LineTR)**|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
