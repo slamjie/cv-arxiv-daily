@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei, Feng Joe-Mei, Xue Dingyu, Pan Feng, Liu Wei, Hu Jun, Cheng Shuai|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 |**2022-02-04**|**DYP-SLAM: A Real-time Visual SLAM Based on YOLO and Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Yanmin Wu, Zhiqiang Deng, Wenkai Sun, Sonya Coleman, Dermot Kerr|[2202.01938v1](http://arxiv.org/abs/2202.01938v1)|null|
 |**2022-02-01**|**A Model for Multi-View Residual Covariances based on Perspective Deformation**|Alejandro Fontan, Laura Oliva, Javier Civera, Rudolph Triebel|[2202.00765v1](http://arxiv.org/abs/2202.00765v1)|null|
@@ -10,7 +11,6 @@
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
 |**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 |**2022-01-17**|**SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System**|Giseop Kim, Seungsang Yun, Jeongyun Kim, Ayoung Kim|[2201.06423v1](http://arxiv.org/abs/2201.06423v1)|null|
-|**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-08**|**GLPU: A Geometric Approach For Lidar Pointcloud Upsampling**|George Eskandar, Janaranjani Palaniswamy, Karim Guirguis, Barath Somashekar, Bin Yang|[2202.03901v1](http://arxiv.org/abs/2202.03901v1)|null|
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang, B Ravi Kiran, Thomas Gauthier, Yanis Mazouz, Theo Steger|[2202.02666v1](http://arxiv.org/abs/2202.02666v1)|null|
 |**2021-12-16**|**Analysis and Evaluation of Kinect-based Action Recognition Algorithms**|Lei Wang|[2112.08626v1](http://arxiv.org/abs/2112.08626v1)|**[link](https://github.com/LeiWangR/HDG)**|
 |**2021-09-15**|**Two algorithms for vehicular obstacle detection in sparse pointcloud**|Simone Mentasti, Matteo Matteucci, Stefano Arrigoni, Federico Cheli|[2109.07288v1](http://arxiv.org/abs/2109.07288v1)|null|
@@ -49,7 +50,6 @@
 |**2021-08-12**|**3D-SiamRPN: An End-to-End Learning Method for Real-Time 3D Single Object Tracking Using Raw Point Cloud**|Zheng Fang, Sifan Zhou, Yubo Cui, Sebastian Scherer|[2108.05630v1](http://arxiv.org/abs/2108.05630v1)|null|
 |**2021-08-06**|**On Bundle Adjustment for Multiview PointCloud Registration**|Huaiyang Huang, Yuxiang Sun, Jin Wu, Jiaohao Jiao, Xiangcheng Hu, Linwei Zheng, Lujia Wang, Ming Liu|[2108.02976v1](http://arxiv.org/abs/2108.02976v1)|null|
 |**2021-06-30**|**Recurrently Estimating Reflective Symmetry Planes from Partial Pointclouds**|Mihaela Cătălina Stoian, Tommaso Cavallari|[2106.16129v1](http://arxiv.org/abs/2106.16129v1)|null|
-|**2021-06-26**|**TANet++: Triple Attention Network with Filtered Pointcloud on 3D Detection**|Cong Ma|[2106.15366v2](http://arxiv.org/abs/2106.15366v2)|null|
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
