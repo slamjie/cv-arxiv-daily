@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell, Fanfei Chen, Brendan Englot|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song, Junqiao Zhao, Tiantian Feng, Chen Ye, Lu Xiong|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei, Feng Joe-Mei, Xue Dingyu, Pan Feng, Liu Wei, Hu Jun, Cheng Shuai|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
 |**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
@@ -10,7 +11,6 @@
 |**2022-01-28**|**RGB-D SLAM Using Attention Guided Frame Association**|Ali Caglayan, Nevrez Imamoglu, Oguzhan Guclu, Ali Osman Serhatoglu, Weimin Wang, Ahmet Burak Can, Ryosuke Nakamura|[2201.12047v1](http://arxiv.org/abs/2201.12047v1)|null|
 |**2022-01-25**|**Autonomous Vehicles: Open-Source Technologies, Considerations, and Development**|Oussama Saoudi, Ishwar Singh, Hamidreza Mahyar|[2202.03148v1](http://arxiv.org/abs/2202.03148v1)|null|
 |**2022-01-24**|**Learning to Act with Affordance-Aware Multimodal Neural SLAM**|Zhiwei Jia, Kaixiang Lin, Yizhou Zhao, Qiaozi Gao, Govind Thattai, Gaurav Sukhatme|[2201.09862v2](http://arxiv.org/abs/2201.09862v2)|**[link](https://github.com/amazon-research/multimodal-neuralslam)**|
-|**2022-01-22**|**Phase-SLAM: Phase Based Simultaneous Localization and Mapping for Mobile Structured Light Illumination Systems**|Xi Zheng, Rui Ma, Rui Gao, Qi Hao|[2201.09048v1](http://arxiv.org/abs/2201.09048v1)|**[link](https://github.com/zhengxi-git/phase-slam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,8 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-13**|**Continuous Occupancy Mapping in Dynamic Environments Using Particles**|Gang Chen, Wei Dong, Peng Peng, Javier Alonso-Mora, Xiangyang Zhu|[2202.06273v1](http://arxiv.org/abs/2202.06273v1)|null|
+|**2022-02-13**|**Autonomous Drone Swarm Navigation and Multi-target Tracking in 3D Environments with Dynamic Obstacles**|Suleman Qamar, Saddam Hussain Khan, Muhammad Arif Arshad, Maryam Qamar, Asifullah Khan|[2202.06253v1](http://arxiv.org/abs/2202.06253v1)|null|
 |**2022-02-09**|**A Circle Grid-based Approach for Obstacle Avoidance Motion Planning of Unmanned Surface Vehicles**|Man Zhu, Changshi Xiao, Shangding Gu, Zhe Du, Yuanqiao Wen|[2202.04494v1](http://arxiv.org/abs/2202.04494v1)|null|
 |**2022-01-31**|**Integrated Decision Control Approach for Cooperative Safety-Critical Payload Transport in a Cluttered Environment**|Nishanth Rao, Suresh Sundaram|[2201.13033v1](http://arxiv.org/abs/2201.13033v1)|null|
 |**2022-01-17**|**Risk-aware Trajectory Sampling for Quadrotor Obstacle Avoidance in Dynamic Environments**|Gang Chen, Peng Peng, Peihan Zhang, Wei Dong|[2201.06645v1](http://arxiv.org/abs/2201.06645v1)|null|
@@ -61,8 +63,6 @@
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
 |**2021-12-22**|**Real-Time Multi-Convex Model Predictive Control for Occlusion Free Target Tracking**|Houman Masnavi, Vivek Adajania, Karl Kruusamae, Arun Kumar Singh|[2112.12177v1](http://arxiv.org/abs/2112.12177v1)|null|
 |**2021-12-13**|**Aerial Chasing of a Dynamic Target in Complex Environments**|Boseong Felipe Jeon, Changhyeon Kim, Hojoon Shin, H. Jin Kim|[2112.06474v1](http://arxiv.org/abs/2112.06474v1)|null|
-|**2021-11-03**|**Realtime Trajectory Smoothing with Neural Nets**|Shohei Fujii, Quang-Cuong Pham|[2111.02165v1](http://arxiv.org/abs/2111.02165v1)|null|
-|**2021-10-23**|**Integrated Task and Motion Planning for Safe Legged Navigation in Partially Observable Environments**|Abdulaziz Shamsah, Jonas Warnke, Zhaoyuan Gu, Ye Zhao|[2110.12097v2](http://arxiv.org/abs/2110.12097v2)|**[link](https://github.com/GTLIDAR/safe-nav-locomotion)**|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
