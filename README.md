@@ -53,16 +53,16 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-15**|**A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D**|Zhongqiang Ren, Sivakumar Rathinam, Howie Choset|[2202.07409v1](http://arxiv.org/abs/2202.07409v1)|null|
 |**2022-02-13**|**Continuous Occupancy Mapping in Dynamic Environments Using Particles**|Gang Chen, Wei Dong, Peng Peng, Javier Alonso-Mora, Xiangyang Zhu|[2202.06273v1](http://arxiv.org/abs/2202.06273v1)|null|
 |**2022-02-13**|**Autonomous Drone Swarm Navigation and Multi-target Tracking in 3D Environments with Dynamic Obstacles**|Suleman Qamar, Saddam Hussain Khan, Muhammad Arif Arshad, Maryam Qamar, Asifullah Khan|[2202.06253v1](http://arxiv.org/abs/2202.06253v1)|null|
 |**2022-02-09**|**A Circle Grid-based Approach for Obstacle Avoidance Motion Planning of Unmanned Surface Vehicles**|Man Zhu, Changshi Xiao, Shangding Gu, Zhe Du, Yuanqiao Wen|[2202.04494v1](http://arxiv.org/abs/2202.04494v1)|null|
 |**2022-01-31**|**Integrated Decision Control Approach for Cooperative Safety-Critical Payload Transport in a Cluttered Environment**|Nishanth Rao, Suresh Sundaram|[2201.13033v1](http://arxiv.org/abs/2201.13033v1)|null|
-|**2022-01-17**|**Risk-aware Trajectory Sampling for Quadrotor Obstacle Avoidance in Dynamic Environments**|Gang Chen, Peng Peng, Peihan Zhang, Wei Dong|[2201.06645v1](http://arxiv.org/abs/2201.06645v1)|null|
+|**2022-01-17**|**Risk-aware Trajectory Sampling for Quadrotor Obstacle Avoidance in Dynamic Environments**|Gang Chen, Peng Peng, Peihan Zhang, Wei Dong|[2201.06645v2](http://arxiv.org/abs/2201.06645v2)|null|
 |**2022-01-08**|**Smart Power Supply for UAV Agility Enhancement Using Deep Neural Networks**|Yanze Liu, Xuhui Chen, Yanhai Du, Rui Liu|[2201.02838v1](http://arxiv.org/abs/2201.02838v1)|null|
 |**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles under Non-Parametric Uncertainty: A Hilbert Space Approach**|Unni Krishnan R Nair, Anish Gupta, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v2](http://arxiv.org/abs/2112.13034v2)|null|
 |**2021-12-23**|**Missing Velocity in Dynamic Obstacle Avoidance based on Deep Reinforcement Learning**|Fabian Hart, Martin Waltz, Ostap Okhrin|[2112.12465v2](http://arxiv.org/abs/2112.12465v2)|null|
 |**2021-12-22**|**Real-Time Multi-Convex Model Predictive Control for Occlusion Free Target Tracking**|Houman Masnavi, Vivek Adajania, Karl Kruusamae, Arun Kumar Singh|[2112.12177v1](http://arxiv.org/abs/2112.12177v1)|null|
-|**2021-12-13**|**Aerial Chasing of a Dynamic Target in Complex Environments**|Boseong Felipe Jeon, Changhyeon Kim, Hojoon Shin, H. Jin Kim|[2112.06474v1](http://arxiv.org/abs/2112.06474v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
