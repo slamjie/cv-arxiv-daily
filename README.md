@@ -1,8 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-02-19**|**SAGE: SLAM with Appearance and Geometry Prior for Endoscopy**|Xingtong Liu, Zhaoshuo Li, Masaru Ishii, Gregory D. Hager, Russell H. Taylor, Mathias Unberath|[2202.09487v1](http://arxiv.org/abs/2202.09487v1)|**[link](https://github.com/lppllppl920/sage-slam)**|
 |**2022-02-18**|**OKVIS2: Realtime Scalable Visual-Inertial SLAM with Loop Closure**|Stefan Leutenegger|[2202.09199v1](http://arxiv.org/abs/2202.09199v1)|null|
-|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq, Michael Milford, Sourav Garg|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|null|
+|**2022-02-18**|**MultiRes-NetVLAD: Augmenting Place Recognition Training with Low-Resolution Imagery**|Ahmad Khaliq, Michael Milford, Sourav Garg|[2202.09146v1](http://arxiv.org/abs/2202.09146v1)|**[link](https://github.com/ahmedest61/multires-netvlad)**|
 |**2022-02-18**|**An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems**|Qiang Liu, Zishen Wan, Bo Yu, Weizhuang Liu, Shaoshan Liu, Arijit Raychowdhury|[2202.08952v1](http://arxiv.org/abs/2202.08952v1)|null|
 |**2022-02-17**|**Continuous-Time vs. Discrete-Time Vision-based SLAM: A Comparative Study**|Giovanni Cioffi, Titus Cieslewski, Davide Scaramuzza|[2202.08894v1](http://arxiv.org/abs/2202.08894v1)|**[link](https://github.com/uzh-rpg/rpg_vision-based_slam)**|
 |**2022-02-17**|**LiDAR-Inertial 3D SLAM with Plane Constraint for Multi-story Building**|Jiashi Zhang, Chengyang Zhang, Jun Wu, Jianxiang Jin, Qiuguo Zhu|[2202.08487v1](http://arxiv.org/abs/2202.08487v1)|null|
@@ -10,7 +11,6 @@
 |**2022-02-11**|**Overhead Image Factors for Underwater Sonar-based SLAM**|John McConnell, Fanfei Chen, Brendan Englot|[2202.05811v1](http://arxiv.org/abs/2202.05811v1)|null|
 |**2022-02-10**|**Scale Estimation with Dual Quadrics for Monocular Object SLAM**|Shuangfu Song, Junqiao Zhao, Tiantian Feng, Chen Ye, Lu Xiong|[2202.04816v1](http://arxiv.org/abs/2202.04816v1)|null|
 |**2022-02-08**|**A Novel Image Descriptor with Aggregated Semantic Skeleton Representation for Long-term Visual Place Recognition**|Nie Jiwei, Feng Joe-Mei, Xue Dingyu, Pan Feng, Liu Wei, Hu Jun, Cheng Shuai|[2202.03677v1](http://arxiv.org/abs/2202.03677v1)|null|
-|**2022-02-07**|**Temporal Point Cloud Completion with Pose Disturbance**|Jieqi Shi, Lingyun Xu, Peiliang Li, Xiaozhi Chen, Shaojie Shen|[2202.03084v1](http://arxiv.org/abs/2202.03084v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
