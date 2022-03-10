@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel, Ayoub Al-Hamadi|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li, Xianjia Yu, Jorge Peña Queralta, Tomi Westerlund|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
 |**2022-03-06**|**Minimum Cost Multicuts for Incorrect Landmark Edge Detection in Pose-graph SLAM**|Kazushi Aiba, Kanji Tanaka, Ryogo Yamamoto|[2203.02887v1](http://arxiv.org/abs/2203.02887v1)|null|
@@ -10,7 +11,6 @@
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng, Qingyan Zhu, Wei Xu, Xiyuan Liu, Qizhi Guo, Fu Zhang|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
 |**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian, Amrit Singh Bedi, Alec Koppel, Miguel Calvo-Fullana, David M. Rosen, Jonathan P. How|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
 |**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing, Xinyu Sun, Andrei Cramariuc, Samuel Gull, Jen Jen Chung, Cesar Cadena, Roland Siegwart, Florian Tschopp|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
-|**2022-03-01**|**Collaborative Robot Mapping using Spectral Graph Analysis**|Lukas Bernreiter, Shehryar Khattak, Lionel Ott, Roland Siegwart, Marco Hutter, Cesar Cadena|[2203.00308v1](http://arxiv.org/abs/2203.00308v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
