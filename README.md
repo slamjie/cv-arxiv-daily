@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie, Giovanni Beltrame|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
+|**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin A. Severinsen, Ethan Yang, John Leonard|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|null|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel, Ayoub Al-Hamadi|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li, Xianjia Yu, Jorge Peña Queralta, Tomi Westerlund|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|null|
 |**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
@@ -9,8 +11,6 @@
 |**2022-03-03**|**STUN: Self-Teaching Uncertainty Estimation for Place Recognition**|Kaiwen Cai, Chris Xiaoxuan Lu, Xiaowei Huang|[2203.01851v1](http://arxiv.org/abs/2203.01851v1)|**[link](https://github.com/ramdrop/stun)**|
 |**2022-03-03**|**Continual SLAM: Beyond Lifelong Simultaneous Localization and Mapping through Continual Learning**|Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2203.01578v1](http://arxiv.org/abs/2203.01578v1)|**[link](https://github.com/robot-learning-freiburg/CL-SLAM)**|
 |**2022-03-02**|**FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng, Qingyan Zhu, Wei Xu, Xiyuan Liu, Qizhi Guo, Fu Zhang|[2203.00893v1](http://arxiv.org/abs/2203.00893v1)|**[link](https://github.com/hku-mars/fast-livo)**|
-|**2022-03-02**|**Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation**|Yulun Tian, Amrit Singh Bedi, Alec Koppel, Miguel Calvo-Fullana, David M. Rosen, Jonathan P. How|[2203.00851v1](http://arxiv.org/abs/2203.00851v1)|null|
-|**2022-03-01**|**Descriptellation: Deep Learned Constellation Descriptors for SLAM**|Chunwei Xing, Xinyu Sun, Andrei Cramariuc, Samuel Gull, Jen Jen Chung, Cesar Cadena, Roland Siegwart, Florian Tschopp|[2203.00567v1](http://arxiv.org/abs/2203.00567v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer, Menelaos Kanakis, Matteo Spallanzani, Ajad Chhatkuli, Luc Van Gool|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran, Sumit Mishra, Luiz Felipe Vecchietti, Dongsoo Har|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
 |**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi, Cédric Pradalier, Ondřej Chum|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
@@ -36,7 +37,6 @@
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
 |**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng, Zihang He, Haotian Zhang, Ran Yan, Chuting Wang, Qingtian Zhu, Xiao Liu|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
-|**2021-10-08**|**Semantic Image Alignment for Vehicle Localization**|Markus Herb, Matthias Lemberger, Marcel M. Schmitt, Alexander Kurz, Tobias Weiherer, Nassir Navab, Federico Tombari|[2110.04162v1](http://arxiv.org/abs/2110.04162v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v1](http://arxiv.org/abs/2203.04739v1)|null|
 |**2022-03-05**|**Safely: Safe Stochastic Motion Planning Under Constrained Sensing via Duality**|Michael Hibbard, Abraham P. Vinod, Jesse Quattrociocchi, Ufuk Topcu|[2203.02816v1](http://arxiv.org/abs/2203.02816v1)|null|
 |**2022-03-04**|**ST-RRT*: Asymptotically-Optimal Bidirectional Motion Planning through Space-Time**|Francesco Grothe, Valentin N. Hartmann, Andreas Orthey, Marc Toussaint|[2203.02176v1](http://arxiv.org/abs/2203.02176v1)|null|
 |**2022-02-15**|**A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D**|Zhongqiang Ren, Sivakumar Rathinam, Howie Choset|[2202.07409v1](http://arxiv.org/abs/2202.07409v1)|null|
@@ -62,7 +63,6 @@
 |**2022-01-31**|**Integrated Decision Control Approach for Cooperative Safety-Critical Payload Transport in a Cluttered Environment**|Nishanth Rao, Suresh Sundaram|[2201.13033v1](http://arxiv.org/abs/2201.13033v1)|null|
 |**2022-01-17**|**Risk-aware Trajectory Sampling for Quadrotor Obstacle Avoidance in Dynamic Environments**|Gang Chen, Peng Peng, Peihan Zhang, Wei Dong|[2201.06645v2](http://arxiv.org/abs/2201.06645v2)|null|
 |**2022-01-08**|**Smart Power Supply for UAV Agility Enhancement Using Deep Neural Networks**|Yanze Liu, Xuhui Chen, Yanhai Du, Rui Liu|[2201.02838v1](http://arxiv.org/abs/2201.02838v1)|null|
-|**2021-12-24**|**Non Holonomic Collision Avoidance of Dynamic Obstacles under Non-Parametric Uncertainty: A Hilbert Space Approach**|Unni Krishnan R Nair, Anish Gupta, D. A. Sasi Kiran, Ajay Shrihari, Vanshil Shah, Arun Kumar Singh, K. Madhava Krishna|[2112.13034v2](http://arxiv.org/abs/2112.13034v2)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
