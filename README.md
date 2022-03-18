@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi, Arash Behboodi, Joseph B. Soriaga, Max Welling, Roohollah Amiri, Srinivas Yerramalli, Taesang Yoo|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
 |**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow, Andrew J. Davison|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-11**|**An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs**|Keisuke Sugiura, Hiroki Matsutani|[2203.05763v1](http://arxiv.org/abs/2203.05763v1)|null|
@@ -10,7 +11,6 @@
 |**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin A. Severinsen, Ethan Yang, John Leonard|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|**[link](https://github.com/520xyxyzq/slam-super-6d)**|
 |**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel, Ayoub Al-Hamadi|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 |**2022-03-07**|**Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms**|Qingqing Li, Xianjia Yu, Jorge Peña Queralta, Tomi Westerlund|[2203.03454v1](http://arxiv.org/abs/2203.03454v1)|**[link](https://github.com/tiers/tiers-lidars-dataset)**|
-|**2022-03-07**|**OverlapTransformer: An Efficient and Rotation-Invariant Transformer Network for LiDAR-Based Place Recognition**|Junyi Ma, Jun Zhang, Jintao Xu, Rui Ai, Weihao Gu, Cyrill Stachniss, Xieyuanli Chen|[2203.03397v1](http://arxiv.org/abs/2203.03397v1)|**[link](https://github.com/haomo-ai/OverlapTransformer)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -35,7 +35,7 @@
 |**2022-02-02**|**Training Semantic Descriptors for Image-Based Localization**|Ibrahim Cinaroglu, Yalin Bastanlar|[2202.01212v1](http://arxiv.org/abs/2202.01212v1)|null|
 |**2022-01-31**|**Rigidity Preserving Image Transformations and Equivariance in Perspective**|Lucas Brynte, Georg Bökman, Axel Flinth, Fredrik Kahl|[2201.13065v1](http://arxiv.org/abs/2201.13065v1)|null|
 |**2022-01-14**|**SRVIO: Super Robust Visual Inertial Odometry for dynamic environments and challenging Loop-closure conditions**|Ali Samadzadeh, Ahmad Nickabadi|[2201.05386v1](http://arxiv.org/abs/2201.05386v1)|**[link](https://github.com/aa-samad/srvio)**|
-|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov|[2112.09081v1](http://arxiv.org/abs/2112.09081v1)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
+|**2021-12-16**|**CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data**|Qi Yan, Jianhao Zheng, Simon Reding, Shanci Li, Iordan Doytchinov|[2112.09081v2](http://arxiv.org/abs/2112.09081v2)|**[link](https://github.com/TOPO-EPFL/CrossLoc-Benchmark-Datasets)**|
 |**2021-11-25**|**MegLoc: A Robust and Accurate Visual Localization Pipeline**|Shuxue Peng, Zihang He, Haotian Zhang, Ran Yan, Chuting Wang, Qingtian Zhu, Xiao Liu|[2111.13063v1](http://arxiv.org/abs/2111.13063v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
