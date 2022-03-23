@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-19**|**Hybrid Active and Passive Sensing for SLAM in Wireless Communication Systems**|Jie Yang, Chao-Kai Wen, Shi Jin|[2203.10267v1](http://arxiv.org/abs/2203.10267v1)|null|
 |**2022-03-16**|**Any Way You Look At It: Semantic Crossview Localization and Mapping with LiDAR**|Ian D. Miller, Anthony Cowley, Ravi Konkimalla, Shreyas S. Shivakumar, Ty Nguyen, Trey Smith, Camillo Jose Taylor, Vijay Kumar|[2203.08925v1](http://arxiv.org/abs/2203.08925v1)|**[link](https://github.com/iandouglas96/cross_view_slam)**|
 |**2022-03-15**|**Neural RF SLAM for unsupervised positioning and mapping with channel state information**|Shreya Kadambi, Arash Behboodi, Joseph B. Soriaga, Max Welling, Roohollah Amiri, Srinivas Yerramalli, Taesang Yoo|[2203.08264v1](http://arxiv.org/abs/2203.08264v1)|null|
 |**2022-03-15**|**Simultaneous Localisation and Mapping with Quadric Surfaces**|Tristan Laidlow, Andrew J. Davison|[2203.08040v1](http://arxiv.org/abs/2203.08040v1)|null|
@@ -10,7 +11,6 @@
 |**2022-03-10**|**SelfTune: Metrically Scaled Monocular Depth Estimation through Self-Supervised Learning**|Jaehoon Choi, Dongki Jung, Yonghan Lee, Deokhwa Kim, Dinesh Manocha, Donghwan Lee|[2203.05332v1](http://arxiv.org/abs/2203.05332v1)|null|
 |**2022-03-08**|**Tune your Place Recognition: Self-Supervised Domain Calibration via Robust SLAM**|Pierre-Yves Lajoie, Giovanni Beltrame|[2203.04446v1](http://arxiv.org/abs/2203.04446v1)|null|
 |**2022-03-08**|**SLAM-Supported Self-Training for 6D Object Pose Estimation**|Ziqi Lu, Yihao Zhang, Kevin Doherty, Odin A. Severinsen, Ethan Yang, John Leonard|[2203.04424v1](http://arxiv.org/abs/2203.04424v1)|**[link](https://github.com/520xyxyzq/slam-super-6d)**|
-|**2022-03-08**|**An Online Semantic Mapping System for Extending and Enhancing Visual SLAM**|Thorsten Hempel, Ayoub Al-Hamadi|[2203.03944v1](http://arxiv.org/abs/2203.03944v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang, Jiaming Zhang, Kailun Yang, Kunyu Peng, Rainer Stiefelhagen|[2203.09645v1](http://arxiv.org/abs/2203.09645v1)|null|
+|**2022-03-17**|**MatchFormer: Interleaving Attention in Transformers for Feature Matching**|Qing Wang, Jiaming Zhang, Kailun Yang, Kunyu Peng, Rainer Stiefelhagen|[2203.09645v2](http://arxiv.org/abs/2203.09645v2)|null|
 |**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer, Menelaos Kanakis, Matteo Spallanzani, Ajad Chhatkuli, Luc Van Gool|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran, Sumit Mishra, Luiz Felipe Vecchietti, Dongsoo Har|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
@@ -53,6 +53,8 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Risk Analysis of Unmanned Aerial System Operations in Urban Airspace Considering Spatiotemporal Population Dynamics**|Soohwan Oh, Yoonjin Yoon, Seyun Kim|[2203.10703v1](http://arxiv.org/abs/2203.10703v1)|null|
+|**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han, Shengduo Chen, Shuaijun Wang, Zeqing Zhang, Rui Gao, Qi Hao, Jia Pan|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|null|
 |**2022-03-15**|**Reactive Motion Generation on Learned Riemannian Manifolds**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2203.07761v1](http://arxiv.org/abs/2203.07761v1)|null|
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v1](http://arxiv.org/abs/2203.04739v1)|null|
@@ -61,8 +63,6 @@
 |**2022-02-15**|**A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D**|Zhongqiang Ren, Sivakumar Rathinam, Howie Choset|[2202.07409v1](http://arxiv.org/abs/2202.07409v1)|null|
 |**2022-02-13**|**Continuous Occupancy Mapping in Dynamic Environments Using Particles**|Gang Chen, Wei Dong, Peng Peng, Javier Alonso-Mora, Xiangyang Zhu|[2202.06273v1](http://arxiv.org/abs/2202.06273v1)|null|
 |**2022-02-13**|**Autonomous Drone Swarm Navigation and Multi-target Tracking in 3D Environments with Dynamic Obstacles**|Suleman Qamar, Saddam Hussain Khan, Muhammad Arif Arshad, Maryam Qamar, Asifullah Khan|[2202.06253v1](http://arxiv.org/abs/2202.06253v1)|null|
-|**2022-02-09**|**A Circle Grid-based Approach for Obstacle Avoidance Motion Planning of Unmanned Surface Vehicles**|Man Zhu, Changshi Xiao, Shangding Gu, Zhe Du, Yuanqiao Wen|[2202.04494v1](http://arxiv.org/abs/2202.04494v1)|null|
-|**2022-01-31**|**Integrated Decision Control Approach for Cooperative Safety-Critical Payload Transport in a Cluttered Environment**|Nishanth Rao, Suresh Sundaram|[2201.13033v1](http://arxiv.org/abs/2201.13033v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
