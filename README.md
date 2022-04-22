@@ -1,19 +1,20 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-19**|**Photometric single-view dense 3D reconstruction in endoscopy**|Victor M. Batlle, J. M. M. Montiel, Juan D. Tardos|[2204.09083v1](http://arxiv.org/abs/2204.09083v1)|null|
+|**2022-04-18**|**Pulsar skips: Understanding variations in the regular periods of rotating neutron stars**|Clayton Miller|[2204.08449v1](http://arxiv.org/abs/2204.08449v1)|null|
+|**2022-04-18**|**Tracking monocular camera pose and deformation for SLAM inside the human body**|Juan J. Gomez Rodriguez, J. M. M Montiel, Juan D. Tardos|[2204.08309v1](http://arxiv.org/abs/2204.08309v1)|null|
+|**2022-04-18**|**Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker**|Hanjing Ye, Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan, Hong Zhang|[2204.08163v1](http://arxiv.org/abs/2204.08163v1)|null|
+|**2022-04-13**|**ViViD++: Vision for Visibility Dataset**|Alex Junho Lee, Younggun Cho, Young-sik Shin, Ayoung Kim, Hyun Myung|[2204.06183v2](http://arxiv.org/abs/2204.06183v2)|null|
+|**2022-04-12**|**HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud**|Zhixing Hou, Yan Yan, Chengzhong Xu, Hui Kong|[2204.05481v1](http://arxiv.org/abs/2204.05481v1)|null|
+|**2022-04-12**|**RGB-D Semantic SLAM for Surgical Robot Navigation in the Operating Room**|Cong Gao, Dinesh Rabindran, Omid Mohareri|[2204.05467v1](http://arxiv.org/abs/2204.05467v1)|null|
+|**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao, Chunyun Fu, Binbin Feng, Tian Su|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|**[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**|
 |**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi, Andrea Conti, Filippo Aleotti, Matteo Poggi, Stefano Mattoccia|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
 |**2022-04-04**|**IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**|Lei Sun|[2204.01324v1](http://arxiv.org/abs/2204.01324v1)|null|
-|**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou, Jiaming Zhang, Kunyu Peng, Kailun Yang, Gerhard Jaworek, Karin Müller, Rainer Stiefelhagen|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
-|**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy, Sudarshan S Harithas, Gurkirat Singh, Arun K Singh, K Madhava Krishna|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|null|
-|**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali, Sari Peltonen, Atanas Gotchev|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-03-31**|**Curiosity Driven Self-supervised Tactile Exploration of Unknown Objects**|Yujie Lu, Jianren Wang, Vikash Kumar|[2204.00035v1](http://arxiv.org/abs/2204.00035v1)|null|
-|**2022-03-30**|**GTP-SLAM: Game-Theoretic Priors for Simultaneous Localization and Mapping in Multi-Agent Scenarios**|Chih-Yuan Chiu, David Fridovich-Keil|[2203.16690v1](http://arxiv.org/abs/2203.16690v1)|null|
-|**2022-03-29**|**Indoor SLAM Using a Foot-mounted IMU and the local Magnetic Field**|Mostafa Osman, Frida Viset, Manon Kok|[2203.15866v1](http://arxiv.org/abs/2203.15866v1)|null|
-|**2022-03-29**|**Eventor: An Efficient Event-Based Monocular Multi-View Stereo Accelerator on FPGA Platform**|Mingjun Li, Jianlei Yang, Yingjie Qi, Meng Dong, Yuhao Yang, Runze Liu, Weitao Pan, Bei Yu, Weisheng Zhao|[2203.15439v1](http://arxiv.org/abs/2203.15439v1)|null|
-|**2022-03-29**|**Sparse Image based Navigation Architecture to Mitigate the need of precise Localization in Mobile Robots**|Pranay Mathur, Rajesh Kumar, Sarthak Upadhyay|[2203.15272v1](http://arxiv.org/abs/2203.15272v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi, Hongdong Li|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
 |**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza, Lazar Lolic, Shahmir Akhter, Alfonso Dela Cruz, Michael Liut|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
 |**2022-02-04**|**CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Rong Ma, Yanmin Wu, Zhiqiang Deng, Wenkai Sun|[2202.01938v2](http://arxiv.org/abs/2202.01938v2)|null|
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu, Youchen Wang, Bin Xu, Jun Zhang, Jian Ren, Stefan Poslad, Pengfei Xu|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
@@ -23,10 +24,10 @@
 |**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 |**2021-09-13**|**Monocular Camera Localization for Automated Vehicles Using Image Retrieval**|Eunhyek Joa, Francesco Borrelli|[2109.06296v1](http://arxiv.org/abs/2109.06296v1)|null|
 |**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v1](http://arxiv.org/abs/2108.09112v1)|**[link](https://github.com/aaltovision/cl_hscnet)**|
-|**2021-08-09**|**DistillPose: Lightweight Camera Localization Using Auxiliary Learning**|Yehya Abouelnaga, Mai Bui, Slobodan Ilic|[2108.03819v1](http://arxiv.org/abs/2108.03819v1)|null|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana, J. M. M. Montiel|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
 |**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min, Naji Khosravan, Zachary Bessinger, Manjunath Narayana, Sing Bing Kang, Enrique Dunn, Ivaylo Boyadzhiev|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 |**2022-03-31**|**Semantic Pose Verification for Outdoor Visual Localization with Self-supervised Contrastive Learning**|Semih Orhan, Jose J. Guerrero, Yalin Bastanlar|[2203.16945v1](http://arxiv.org/abs/2203.16945v1)|null|
 |**2022-03-29**|**Long-term Visual Map Sparsification with Heterogeneous GNN**|Ming-Fang Chang, Yipu Zhao, Rajvi Shah, Jakob J. Engel, Michael Kaess, Simon Lucey|[2203.15182v1](http://arxiv.org/abs/2203.15182v1)|null|
@@ -36,7 +37,6 @@
 |**2022-03-09**|**Object-Based Visual Camera Pose Estimation From Ellipsoidal Model and 3D-Aware Ellipse Prediction**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2203.04613v1](http://arxiv.org/abs/2203.04613v1)|null|
 |**2022-03-07**|**ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization**|Simon Maurer, Menelaos Kanakis, Matteo Spallanzani, Ajad Chhatkuli, Luc Van Gool|[2203.03610v1](http://arxiv.org/abs/2203.03610v1)|null|
 |**2022-02-25**|**RELMOBNET: A Robust Two-Stage End-To-End Training Approach For MOBILENETV3 Based Relative Camera Pose Estimation**|Praveen Kumar Rajendran, Sumit Mishra, Luiz Felipe Vecchietti, Dongsoo Har|[2202.12838v1](http://arxiv.org/abs/2202.12838v1)|null|
-|**2022-02-09**|**Object-Guided Day-Night Visual Localization in Urban Scenes**|Assia Benbihi, Cédric Pradalier, Ondřej Chum|[2202.04445v1](http://arxiv.org/abs/2202.04445v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,9 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-20**|**Risk-Averse Receding Horizon Motion Planning**|Anushri Dixit, Mohamadreza Ahmadi, Joel W. Burdick|[2204.09596v1](http://arxiv.org/abs/2204.09596v1)|null|
+|**2022-04-20**|**Dynamic Free-Space Roadmap for Safe Quadrotor Motion Planning**|Junlong Guo, Zhiren Xun, Shuang Geng, Yi Lin, Chao Xu, Fei Gao|[2204.09265v1](http://arxiv.org/abs/2204.09265v1)|null|
+|**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
 |**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou, Jiaming Zhang, Kunyu Peng, Kailun Yang, Gerhard Jaworek, Karin Müller, Rainer Stiefelhagen|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
 |**2022-03-21**|**Risk Analysis of Unmanned Aerial System Operations in Urban Airspace Considering Spatiotemporal Population Dynamics**|Soohwan Oh, Yoonjin Yoon, Seyun Kim|[2203.10703v1](http://arxiv.org/abs/2203.10703v1)|null|
 |**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han, Shengduo Chen, Shuaijun Wang, Zeqing Zhang, Rui Gao, Qi Hao, Jia Pan|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|**[link](https://github.com/hanruihua/rl_rvo_nav)**|
@@ -60,9 +63,6 @@
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 |**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v1](http://arxiv.org/abs/2203.04739v1)|null|
 |**2022-03-05**|**Safely: Safe Stochastic Motion Planning Under Constrained Sensing via Duality**|Michael Hibbard, Abraham P. Vinod, Jesse Quattrociocchi, Ufuk Topcu|[2203.02816v1](http://arxiv.org/abs/2203.02816v1)|null|
-|**2022-03-04**|**ST-RRT*: Asymptotically-Optimal Bidirectional Motion Planning through Space-Time**|Francesco Grothe, Valentin N. Hartmann, Andreas Orthey, Marc Toussaint|[2203.02176v1](http://arxiv.org/abs/2203.02176v1)|null|
-|**2022-02-15**|**A Lower Bounding Framework for Motion Planning amid Dynamic Obstacles in 2D**|Zhongqiang Ren, Sivakumar Rathinam, Howie Choset|[2202.07409v1](http://arxiv.org/abs/2202.07409v1)|null|
-|**2022-02-13**|**Continuous Occupancy Mapping in Dynamic Environments Using Particles**|Gang Chen, Wei Dong, Peng Peng, Javier Alonso-Mora, Xiangyang Zhu|[2202.06273v1](http://arxiv.org/abs/2202.06273v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
