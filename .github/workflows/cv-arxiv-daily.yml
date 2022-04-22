@@ -44,7 +44,7 @@ jobs:
           python daily_arxiv.py
           
       - name: Push new cv-arxiv-daily.md
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.G_T }}
           commit-message: "update today cv arxiv"
