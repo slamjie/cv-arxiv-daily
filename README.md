@@ -14,6 +14,7 @@
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa, Shun Taguchi, Noriaki Hirose|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi, Hongdong Li|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
 |**2022-02-28**|**Deep Camera Pose Regression Using Pseudo-LiDAR**|Ali Raza, Lazar Lolic, Shahmir Akhter, Alfonso Dela Cruz, Michael Liut|[2203.00080v1](http://arxiv.org/abs/2203.00080v1)|null|
 |**2022-02-04**|**CFP-SLAM: A Real-time Visual SLAM Based on Coarse-to-Fine Probability in Dynamic Environments**|Xinggang Hu, Yunzhou Zhang, Zhenzhong Cao, Rong Ma, Yanmin Wu, Zhiqiang Deng, Wenkai Sun|[2202.01938v2](http://arxiv.org/abs/2202.01938v2)|null|
@@ -23,7 +24,6 @@
 |**2021-09-20**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
 |**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 |**2021-09-13**|**Monocular Camera Localization for Automated Vehicles Using Image Retrieval**|Eunhyek Joa, Francesco Borrelli|[2109.06296v1](http://arxiv.org/abs/2109.06296v1)|null|
-|**2021-08-20**|**Continual Learning for Image-Based Camera Localization**|Shuzhe Wang, Zakaria Laskar, Iaroslav Melekhov, Xiaotian Li, Juho Kannala|[2108.09112v2](http://arxiv.org/abs/2108.09112v2)|**[link](https://github.com/aaltovision/cl_hscnet)**|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
