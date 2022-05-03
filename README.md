@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-29**|**Struct-MDC: Mesh-Refined Unsupervised Depth Completion Leveraging Structural Regularities from Visual SLAM**|Jinwoo Jeon, Hyunjun Lim, Dong-Uk Seo, Hyun Myung|[2204.13877v1](http://arxiv.org/abs/2204.13877v1)|**[link](https://github.com/url-kaist/Struct-MDC)**|
 |**2022-04-27**|**The Revisiting Problem in Simultaneous Localization and Mapping: A Survey on Visual Loop Closure Detection**|Konstantinos A. Tsintotas, Loukas Bampis, Antonios Gasteratos|[2204.12831v1](http://arxiv.org/abs/2204.12831v1)|null|
 |**2022-04-27**|**Dynamic Registration: Joint Ego Motion Estimation and 3D Moving Object Detection in Dynamic Environment**|Wenyu Li, Xinyu Zhang, Zijun Wang, Shichun Guo, Nan Qiu, Jun Li|[2204.12769v1](http://arxiv.org/abs/2204.12769v1)|null|
 |**2022-04-25**|**MLO: Multi-Object Tracking and Lidar Odometry in Dynamic Environment**|Tingchen Ma, Yongsheng Ou|[2204.11621v2](http://arxiv.org/abs/2204.11621v2)|null|
@@ -10,7 +11,6 @@
 |**2022-04-22**|**Making Parameterization and Constrains of Object Landmark Globally Consistent via SPD(3) Manifold and Improved Cost Functions**|Yutong Hu, Wei Wang|[2204.10552v1](http://arxiv.org/abs/2204.10552v1)|null|
 |**2022-04-22**|**Implicit Object Mapping With Noisy Data**|Jad Abou-Chakra, Feras Dayoub, Niko Sünderhauf|[2204.10516v1](http://arxiv.org/abs/2204.10516v1)|null|
 |**2022-04-19**|**Photometric single-view dense 3D reconstruction in endoscopy**|Victor M. Batlle, J. M. M. Montiel, Juan D. Tardos|[2204.09083v1](http://arxiv.org/abs/2204.09083v1)|null|
-|**2022-04-18**|**Pulsar skips: Understanding variations in the regular periods of rotating neutron stars**|Clayton Miller|[2204.08449v1](http://arxiv.org/abs/2204.08449v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -44,7 +44,7 @@
 |**2022-02-06**|**Simulation-to-Reality domain adaptation for offline 3D object annotation on pointclouds with correlation alignment**|Weishuang Zhang, B Ravi Kiran, Thomas Gauthier, Yanis Mazouz, Theo Steger|[2202.02666v2](http://arxiv.org/abs/2202.02666v2)|null|
 |**2021-12-16**|**Analysis and Evaluation of Kinect-based Action Recognition Algorithms**|Lei Wang|[2112.08626v1](http://arxiv.org/abs/2112.08626v1)|**[link](https://github.com/LeiWangR/HDG)**|
 |**2021-09-15**|**Two algorithms for vehicular obstacle detection in sparse pointcloud**|Simone Mentasti, Matteo Matteucci, Stefano Arrigoni, Federico Cheli|[2109.07288v1](http://arxiv.org/abs/2109.07288v1)|null|
-|**2021-09-13**|**TTM: Terrain Traversability Mapping for Autonomous Excavators**|Tianrui Guan, Zhenpeng He, Dinesh Manocha, Liangjun Zhang|[2109.06250v2](http://arxiv.org/abs/2109.06250v2)|null|
+|**2021-09-13**|**TNS: Terrain Traversability Mapping and Navigation System for Autonomous Excavators**|Tianrui Guan, Zhenpeng He, Ruitao Song, Dinesh Manocha, Liangjun Zhang|[2109.06250v3](http://arxiv.org/abs/2109.06250v3)|null|
 |**2021-08-30**|**COMPRA: A COMPact Reactive Autonomy framework for subterranean MAV based search-and-rescue operations**|Björn Lindqvist, Christoforos Kanellakis, Sina Sharif Mansouri, Ali-akbar Agha-mohammadi, George Nikolakopoulos|[2108.13105v2](http://arxiv.org/abs/2108.13105v2)|null|
 |**2021-08-13**|**Is Pseudo-Lidar needed for Monocular 3D Object detection?**|Dennis Park, Rares Ambrus, Vitor Guizilini, Jie Li, Adrien Gaidon|[2108.06417v1](http://arxiv.org/abs/2108.06417v1)|**[link](https://github.com/tri-ml/dd3d)**|
 |**2021-08-12**|**3D-SiamRPN: An End-to-End Learning Method for Real-Time 3D Single Object Tracking Using Raw Point Cloud**|Zheng Fang, Sifan Zhou, Yubo Cui, Sebastian Scherer|[2108.05630v1](http://arxiv.org/abs/2108.05630v1)|null|
