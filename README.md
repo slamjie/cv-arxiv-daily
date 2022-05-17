@@ -3,7 +3,7 @@
 |---|---|---|---|---|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen, Yilin Cai, Jiayi Qiu, Guangzhao Li|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng, Xinyu Jiang, Yuan Chen, Lige Liu, Tao Sun|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
-|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Jing Ying Ko, Han Wang, Lihua Xie|[2205.04300v1](http://arxiv.org/abs/2205.04300v1)|**[link](https://github.com/wh200720041/mms_slam)**|
+|**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang, Jing Ying Ko, Lihua Xie|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado, Lanfranco Zanzi, Xi Li, Xavier Costa-Pérez|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji, Yuan Tian, Qingan Yan, Yuxin Ma, Yi Xu|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim, Karl Granström, Lennart Svensson, Sunwoo Kim, Henk Wymeersch|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
 |**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-assisted Memorization**|Mulong Luo, G. Edward Suh|[2205.02754v1](http://arxiv.org/abs/2205.02754v1)|null|
 |**2022-04-20**|**Risk-Averse Receding Horizon Motion Planning**|Anushri Dixit, Mohamadreza Ahmadi, Joel W. Burdick|[2204.09596v1](http://arxiv.org/abs/2204.09596v1)|null|
 |**2022-04-20**|**Dynamic Free-Space Roadmap for Safe Quadrotor Motion Planning**|Junlong Guo, Zhiren Xun, Shuang Geng, Yi Lin, Chao Xu, Fei Gao|[2204.09265v1](http://arxiv.org/abs/2204.09265v1)|null|
@@ -62,7 +63,6 @@
 |**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han, Shengduo Chen, Shuaijun Wang, Zeqing Zhang, Rui Gao, Qi Hao, Jia Pan|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|**[link](https://github.com/hanruihua/rl_rvo_nav)**|
 |**2022-03-15**|**Reactive Motion Generation on Learned Riemannian Manifolds**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2203.07761v1](http://arxiv.org/abs/2203.07761v1)|null|
 |**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
-|**2022-03-09**|**Regularized Deep Signed Distance Fields for Reactive Motion Generation**|Puze Liu, Kuo Zhang, Davide Tateo, Snehal Jauhri, Jan Peters, Georgia Chalvatzaki|[2203.04739v1](http://arxiv.org/abs/2203.04739v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
