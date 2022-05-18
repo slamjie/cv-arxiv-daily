@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-16**|**Moving Target Interception Considering Dynamic Environment**|Chendi Qu, Jianping He, Jialun Li, Chongrong Fang, Yilin Mo|[2205.07772v1](http://arxiv.org/abs/2205.07772v1)|null|
 |**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
 |**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-assisted Memorization**|Mulong Luo, G. Edward Suh|[2205.02754v1](http://arxiv.org/abs/2205.02754v1)|null|
 |**2022-04-20**|**Risk-Averse Receding Horizon Motion Planning**|Anushri Dixit, Mohamadreza Ahmadi, Joel W. Burdick|[2204.09596v1](http://arxiv.org/abs/2204.09596v1)|null|
@@ -62,7 +63,6 @@
 |**2022-03-21**|**Risk Analysis of Unmanned Aerial System Operations in Urban Airspace Considering Spatiotemporal Population Dynamics**|Soohwan Oh, Yoonjin Yoon, Seyun Kim|[2203.10703v1](http://arxiv.org/abs/2203.10703v1)|null|
 |**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han, Shengduo Chen, Shuaijun Wang, Zeqing Zhang, Rui Gao, Qi Hao, Jia Pan|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|**[link](https://github.com/hanruihua/rl_rvo_nav)**|
 |**2022-03-15**|**Reactive Motion Generation on Learned Riemannian Manifolds**|Hadi Beik-Mohammadi, Søren Hauberg, Georgios Arvanitidis, Gerhard Neumann, Leonel Rozo|[2203.07761v1](http://arxiv.org/abs/2203.07761v1)|null|
-|**2022-03-14**|**Drift Reduced Navigation with Deep Explainable Features**|Mohd Omama, Sundar Sripada Venugopalaswamy Sriraman, Sandeep Chinchali, Arun Kumar Singh, K. Madhava Krishna|[2203.06897v1](http://arxiv.org/abs/2203.06897v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
