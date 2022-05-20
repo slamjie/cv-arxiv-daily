@@ -1,7 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v1](http://arxiv.org/abs/2205.08151v1)|null|
+|**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk, Jonathan P. How|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
+|**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
 |**2022-05-12**|**Dynamic Dense RGB-D SLAM using Learning-based Visual Odometry**|Shihao Shen, Yilin Cai, Jiayi Qiu, Guangzhao Li|[2205.05916v1](http://arxiv.org/abs/2205.05916v1)|**[link](https://github.com/geniussh/dynamic-dense-rgbd-slam-with-tartanvo)**|
 |**2022-05-12**|**S3E-GNN: Sparse Spatial Scene Embedding with Graph Neural Networks for Camera Relocalization**|Ran Cheng, Xinyu Jiang, Yuan Chen, Lige Liu, Tao Sun|[2205.05861v1](http://arxiv.org/abs/2205.05861v1)|null|
 |**2022-05-09**|**Multi-modal Semantic SLAM for Complex Dynamic Environments**|Han Wang, Jing Ying Ko, Lihua Xie|[2205.04300v2](http://arxiv.org/abs/2205.04300v2)|**[link](https://github.com/wh200720041/mms_slam)**|
@@ -10,7 +11,6 @@
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim, Karl Granström, Lennart Svensson, Sunwoo Kim, Henk Wymeersch|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
 |**2022-05-04**|**BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking**|Dorian Henning, Tristan Laidlow, Stefan Leutenegger|[2205.02301v1](http://arxiv.org/abs/2205.02301v1)|null|
 |**2022-05-04**|**A Global Asymptotic Convergent Observer for SLAM**|Seyed Hamed Hashemi, Jouni Mattila|[2205.01953v1](http://arxiv.org/abs/2205.01953v1)|null|
-|**2022-05-04**|**Symmetry and Uncertainty-Aware Object SLAM for 6DoF Object Pose Estimation**|Nathaniel Merrill, Yuliang Guo, Xingxing Zuo, Xinyu Huang, Stefan Leutenegger, Xi Peng, Liu Ren, Guoquan Huang|[2205.01823v1](http://arxiv.org/abs/2205.01823v1)|**[link](https://github.com/rpng/suo_slam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
