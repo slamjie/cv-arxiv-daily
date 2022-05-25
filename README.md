@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-05-22**|**ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**|Peng Yin, Shiqi Zhao, Ruohai Ge, Ivan Cisneros, Ruijie Fu, Ji Zhang, Howie Choset, Sebastian Scherer|[2205.10737v1](http://arxiv.org/abs/2205.10737v1)|null|
 |**2022-05-19**|**FogROS 2: An Adaptive and Extensible Platform for Cloud and Fog Robotics Using ROS 2**|Jeffrey Ichnowski, Kaiyuan Chen, Karthik Dharmarajan, Simeon Adebola, Michael Danielczuk, Vıctor Mayoral-Vilches, Hugo Zhan, Derek Xu, Ramtin Ghassemi, John Kubiatowicz, Ion Stoica, Joseph Gonzalez, Ken Goldberg|[2205.09778v1](http://arxiv.org/abs/2205.09778v1)|**[link](https://github.com/BerkeleyAutomation/FogROS2)**|
 |**2022-05-17**|**Global Data Association for SLAM with 3D Grassmannian Manifold Objects**|Parker C. Lusk, Jonathan P. How|[2205.08556v1](http://arxiv.org/abs/2205.08556v1)|null|
 |**2022-05-17**|**Cluster on Wheels**|Yuanyuan Yang, Delin Feng, Sören Schwertfeger|[2205.08151v2](http://arxiv.org/abs/2205.08151v2)|null|
@@ -10,7 +11,6 @@
 |**2022-05-06**|**OROS: Orchestrating ROS-driven Collaborative Connected Robots in Mission-Critical Operations**|Carmen Delgado, Lanfranco Zanzi, Xi Li, Xavier Costa-Pérez|[2205.03256v1](http://arxiv.org/abs/2205.03256v1)|null|
 |**2022-05-05**|**CNN-Augmented Visual-Inertial SLAM with Planar Constraints**|Pan Ji, Yuan Tian, Qingan Yan, Yuxin Ma, Yi Xu|[2205.02940v1](http://arxiv.org/abs/2205.02940v1)|null|
 |**2022-05-05**|**PMBM-based SLAM Filters in 5G mmWave Vehicular Networks**|Hyowon Kim, Karl Granström, Lennart Svensson, Sunwoo Kim, Henk Wymeersch|[2205.02502v1](http://arxiv.org/abs/2205.02502v1)|null|
-|**2022-05-04**|**BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking**|Dorian Henning, Tristan Laidlow, Stefan Leutenegger|[2205.02301v1](http://arxiv.org/abs/2205.02301v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
