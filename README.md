@@ -55,7 +55,7 @@
 |---|---|---|---|---|
 |**2022-05-16**|**Moving Target Interception Considering Dynamic Environment**|Chendi Qu, Jianping He, Jialun Li, Chongrong Fang, Yilin Mo|[2205.07772v1](http://arxiv.org/abs/2205.07772v1)|null|
 |**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
-|**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-assisted Memorization**|Mulong Luo, G. Edward Suh|[2205.02754v1](http://arxiv.org/abs/2205.02754v1)|null|
+|**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-Assisted Memoization**|Mulong Luo, G. Edward Suh|[2205.02754v2](http://arxiv.org/abs/2205.02754v2)|null|
 |**2022-04-20**|**Risk-Averse Receding Horizon Motion Planning**|Anushri Dixit, Mohamadreza Ahmadi, Joel W. Burdick|[2204.09596v1](http://arxiv.org/abs/2204.09596v1)|null|
 |**2022-04-20**|**Dynamic Free-Space Roadmap for Safe Quadrotor Motion Planning**|Junlong Guo, Zhiren Xun, Shuang Geng, Yi Lin, Chao Xu, Fei Gao|[2204.09265v1](http://arxiv.org/abs/2204.09265v1)|null|
 |**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
