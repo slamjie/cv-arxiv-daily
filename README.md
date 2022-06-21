@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail, Ran Liu, Zhenghong Qin, Achala Athukorala, Billy Pik Lik Lau, Muhammad Shalihan, Chau Yuen, U-Xuan Tan|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
+|**2022-06-17**|**An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions**|Yijun Yuan, Andreas Nuechter|[2206.08712v1](http://arxiv.org/abs/2206.08712v1)|**[link](https://github.com/jarrome/imt_mapping)**|
 |**2022-06-13**|**ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy**|Hao Bai|[2206.06435v1](http://arxiv.org/abs/2206.06435v1)|null|
 |**2022-06-10**|**Experimental Evaluation of Visual-Inertial Odometry Systems for Arable Farming**|Javier Cremona, Román Comelli, Taihú Pire|[2206.05066v1](http://arxiv.org/abs/2206.05066v1)|**[link](https://github.com/cifasis/slam_agricultural_evaluation)**|
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
@@ -9,8 +11,6 @@
 |**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh, Mikhail Kurenkov, Evgeny Kruzhkov, Evgeny Yudin, Andrei Potapov, Pavel Karpyshev, Dzmitry Tsetserukou|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
 |**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner, Adi Zholkover, Netanel Frank, Moshe Bouhnik|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
 |**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo, Hyungtae Lim, Seungjae Lee, Hyun Myung|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|**[link](https://github.com/url-kaist/alterground-lego-loam)**|
-|**2022-05-27**|**A Look at Improving Robustness in Visual-inertial SLAM by Moment Matching**|Arno Solin, Rui Li, Andrea Pilzer|[2205.13821v1](http://arxiv.org/abs/2205.13821v1)|null|
-|**2022-05-26**|**LAMP 2.0: A Robust Multi-Robot SLAM System for Operation in Challenging Large-Scale Underground Environments**|Yun Chang, Kamak Ebadi, Christopher E. Denniston, Muhammad Fadhil Ginting, Antoni Rosinol, Andrzej Reinke, Matteo Palieri, Jingnan Shi, Arghya Chatterjee, Benjamin Morrell, Ali-akbar Agha-mohammadi, Luca Carlone|[2205.13135v2](http://arxiv.org/abs/2205.13135v2)|**[link](https://github.com/nebula-autonomy/nebula-multirobot-dataset)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-17**|**N$^2$M$^2$: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments**|Daniel Honerkamp, Tim Welschehold, Abhinav Valada|[2206.08737v1](http://arxiv.org/abs/2206.08737v1)|null|
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v1](http://arxiv.org/abs/2206.05728v1)|**[link](https://github.com/ignc-research/arena-bench)**|
 |**2022-05-16**|**Moving Target Interception Considering Dynamic Environment**|Chendi Qu, Jianping He, Jialun Li, Chongrong Fang, Yilin Mo|[2205.07772v1](http://arxiv.org/abs/2205.07772v1)|null|
 |**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
@@ -62,7 +63,6 @@
 |**2022-04-14**|**Blending Primitive Policies in Shared Control for Assisted Teleoperation**|Guilherme Maeda|[2204.07026v1](http://arxiv.org/abs/2204.07026v1)|null|
 |**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou, Jiaming Zhang, Kunyu Peng, Kailun Yang, Gerhard Jaworek, Karin Müller, Rainer Stiefelhagen|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
 |**2022-03-21**|**Risk Analysis of Unmanned Aerial System Operations in Urban Airspace Considering Spatiotemporal Population Dynamics**|Soohwan Oh, Yoonjin Yoon, Seyun Kim|[2203.10703v1](http://arxiv.org/abs/2203.10703v1)|null|
-|**2022-03-19**|**Reinforcement Learned Distributed Multi-Robot Navigation with Reciprocal Velocity Obstacle Shaped Rewards**|Ruihua Han, Shengduo Chen, Shuaijun Wang, Zeqing Zhang, Rui Gao, Qi Hao, Jia Pan|[2203.10229v1](http://arxiv.org/abs/2203.10229v1)|**[link](https://github.com/hanruihua/rl_rvo_nav)**|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
