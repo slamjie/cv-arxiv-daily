@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-06-21**|**Object Structural Points Representation for Graph-based Semantic Monocular Localization and Mapping**|Davide Tateo, Davide Antonio Cucci, Matteo Matteucci, Andrea Bonarini|[2206.10263v1](http://arxiv.org/abs/2206.10263v1)|**[link](https://github.com/airlab-polimi/c-slam)**|
+|**2022-06-20**|**Data Fusion for Radio Frequency SLAM with Robust Sampling**|Erik Leitinger, Bryan Teague, Wenyu Zhang, Mingchao Liang, Florian Meyer|[2206.09746v1](http://arxiv.org/abs/2206.09746v1)|null|
+|**2022-06-19**|**RF-LIO: Removal-First Tightly-coupled Lidar Inertial Odometry in High Dynamic Environments**|Chenglong Qian, Zhaohong Xiang, Zhuoran Wu, Hongbin Sun|[2206.09463v1](http://arxiv.org/abs/2206.09463v1)|null|
 |**2022-06-17**|**Efficient WiFi LiDAR SLAM for Autonomous Robots in Large Environments**|Khairuldanial Ismail, Ran Liu, Zhenghong Qin, Achala Athukorala, Billy Pik Lik Lau, Muhammad Shalihan, Chau Yuen, U-Xuan Tan|[2206.08733v1](http://arxiv.org/abs/2206.08733v1)|null|
 |**2022-06-17**|**An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions**|Yijun Yuan, Andreas Nuechter|[2206.08712v1](http://arxiv.org/abs/2206.08712v1)|**[link](https://github.com/jarrome/imt_mapping)**|
 |**2022-06-13**|**ICP Algorithm: Theory, Practice And Its SLAM-oriented Taxonomy**|Hao Bai|[2206.06435v1](http://arxiv.org/abs/2206.06435v1)|null|
@@ -8,9 +11,6 @@
 |**2022-06-09**|**SparseFormer: Attention-based Depth Completion Network**|Frederik Warburg, Michael Ramamonjisoa, Manuel López-Antequera|[2206.04557v1](http://arxiv.org/abs/2206.04557v1)|null|
 |**2022-06-07**|**Robot Self-Calibration Using Actuated 3D Sensors**|Arne Peters|[2206.03430v1](http://arxiv.org/abs/2206.03430v1)|null|
 |**2022-06-07**|**Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map**|Haodong Yuan, Yudong Zhang, Shengyin Fan, Xue Li, Jian Wang|[2206.03062v1](http://arxiv.org/abs/2206.03062v1)|null|
-|**2022-06-05**|**DarkSLAM: GAN-assisted Visual SLAM for Reliable Operation in Low-light Conditions**|Alena Savinykh, Mikhail Kurenkov, Evgeny Kruzhkov, Evgeny Yudin, Andrei Potapov, Pavel Karpyshev, Dzmitry Tsetserukou|[2206.02199v1](http://arxiv.org/abs/2206.02199v1)|null|
-|**2022-06-04**|**C$^3$Fusion: Consistent Contrastive Colon Fusion, Towards Deep SLAM in Colonoscopy**|Erez Posner, Adi Zholkover, Netanel Frank, Moshe Bouhnik|[2206.01961v1](http://arxiv.org/abs/2206.01961v1)|null|
-|**2022-06-01**|**PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry**|Dong-Uk Seo, Hyungtae Lim, Seungjae Lee, Hyun Myung|[2206.00266v1](http://arxiv.org/abs/2206.00266v1)|**[link](https://github.com/url-kaist/alterground-lego-loam)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
