@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-19**|**Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**|Tuvy Lemberg, Vadim Indelman|[2207.09103v1](http://arxiv.org/abs/2207.09103v1)|null|
 |**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye, Xingyuan Yu, Xinyue Lan, Yuhang Ming, Jinyu Li, Hujun Bao, Zhaopeng Cui, Guofeng Zhang|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
 |**2022-07-18**|**Revisiting PatchMatch Multi-View Stereo for Urban 3D Reconstruction**|Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi|[2207.08439v1](http://arxiv.org/abs/2207.08439v1)|null|
 |**2022-07-18**|**ORB-based SLAM accelerator on SoC FPGA**|Vibhakar Vemulapati, Deming Chen|[2207.08405v1](http://arxiv.org/abs/2207.08405v1)|null|
@@ -10,7 +11,6 @@
 |**2022-07-13**|**SLAM: SLO-Aware Memory Optimization for Serverless Applications**|Gor Safaryan, Anshul Jindal, Mohak Chadha, Michael Gerndt|[2207.06183v1](http://arxiv.org/abs/2207.06183v1)|null|
 |**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu, Jiaxuan Wang, Alain Pagani, Didier Stricker|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-07-12**|**Accelerating Certifiable Estimation with Preconditioned Eigensolvers**|David M. Rosen|[2207.05257v1](http://arxiv.org/abs/2207.05257v1)|null|
-|**2022-07-12**|**Robust Key-Frame Stereo Visual SLAM with low-threshold Point and Line Features**|Meiyu Zhi|[2207.05244v1](http://arxiv.org/abs/2207.05244v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
