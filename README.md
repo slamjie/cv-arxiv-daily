@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow, Jan Czarnowski, Stefan Leutenegger|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
 |**2022-07-22**|**NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction**|Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye|[2207.10985v1](http://arxiv.org/abs/2207.10985v1)|null|
@@ -10,7 +11,6 @@
 |**2022-07-21**|**Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions**|Quentin Serdel, Christophe Grand, Julien Marzat, Julien Moras|[2207.10489v1](http://arxiv.org/abs/2207.10489v1)|null|
 |**2022-07-21**|**On applicability of von Karman's momentum theory in predicting the water entry load of V-shaped structures with varying initial velocity**|Yujin Lu, Alessandro Del Buono, Tianhang Xiao, Alessandro Iafrati, Shuanghou Deng, Jinfa Xu|[2207.10413v1](http://arxiv.org/abs/2207.10413v1)|null|
 |**2022-07-19**|**Hybrid Belief Pruning with Guarantees for Viewpoint-Dependent Semantic SLAM**|Tuvy Lemberg, Vadim Indelman|[2207.09103v1](http://arxiv.org/abs/2207.09103v1)|null|
-|**2022-07-18**|**DeFlowSLAM: Self-Supervised Scene Motion Decomposition for Dynamic Dense SLAM**|Weicai Ye, Xingyuan Yu, Xinyue Lan, Yuhang Ming, Jinyu Li, Hujun Bao, Zhaopeng Cui, Guofeng Zhang|[2207.08794v1](http://arxiv.org/abs/2207.08794v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-21**|**MeshLoc: Mesh-Based Visual Localization**|Vojtech Panek, Zuzana Kukelova, Torsten Sattler|[2207.10762v2](http://arxiv.org/abs/2207.10762v2)|**[link](https://github.com/tsattler/meshloc_release)**|
 |**2022-07-12**|**CPO: Change Robust Panorama to Point Cloud Localization**|Junho Kim, Hojun Jang, Changwoon Choi, Young Min Kim|[2207.05317v1](http://arxiv.org/abs/2207.05317v1)|null|
 |**2022-06-28**|**Improving Worst Case Visual Localization Coverage via Place-specific Sub-selection in Multi-camera Systems**|Stephen Hausler, Ming Xu, Sourav Garg, Punarjay Chakravarty, Shubham Shrivastava, Ankit Vora, Michael Milford|[2206.13883v1](http://arxiv.org/abs/2206.13883v1)|null|
@@ -36,7 +37,6 @@
 |**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss, Fahmi Rouatbi, Daniel Cremers|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|null|
 |**2022-05-11**|**Review on Panoramic Imaging and Its Applications in Scene Understanding**|Shaohua Gao, Kailun Yang, Hao Shi, Kaiwei Wang, Jian Bai|[2205.05570v1](http://arxiv.org/abs/2205.05570v1)|null|
 |**2022-04-13**|**Reuse your features: unifying retrieval and feature-metric alignment**|Javier Morlana, J. M. M. Montiel|[2204.06292v1](http://arxiv.org/abs/2204.06292v1)|null|
-|**2022-04-01**|**LASER: LAtent SpacE Rendering for 2D Visual Localization**|Zhixiang Min, Naji Khosravan, Zachary Bessinger, Manjunath Narayana, Sing Bing Kang, Enrique Dunn, Ivaylo Boyadzhiev|[2204.00157v1](http://arxiv.org/abs/2204.00157v1)|null|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
