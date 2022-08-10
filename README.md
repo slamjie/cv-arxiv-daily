@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-08**|**Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**|Yifei Ren, Binbin Xu, Christopher L. Choi, Stefan Leutenegger|[2208.04274v1](http://arxiv.org/abs/2208.04274v1)|null|
+|**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang, Liang Zhao, Shoudong Huang, Hua Wang, Qi Luo, Qi Hao|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|null|
+|**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi, Huang Xinming|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches, Ruffin White, Gianluca Caiazza, Mikael Arguedas|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|**[link](https://github.com/ros-swg/turtlebot3_demo)**|
 |**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati, Nataliya Strokina, Reza Ghabcheloo|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
 |**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi, Lukas Bernreiter, Harel Biggie, Gavin Catt, Yun Chang, Arghya Chatterjee, Christopher E. Denniston, Simon-Pierre Deschênes, Kyle Harlow, Shehryar Khattak, Lucas Nogueira, Matteo Palieri, Pavel Petráček, Matěj Petrlík, Andrzej Reinke, Vít Krátký, Shibo Zhao, Ali-akbar Agha-mohammadi, Kostas Alexis, Christoffer Heckman, Kasra Khosoussi, Navinda Kottege, Benjamin Morrell, Marco Hutter, Fred Pauling, François Pomerleau, Martin Saska, Sebastian Scherer, Roland Siegwart, Jason L. Williams, Luca Carlone|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
@@ -8,12 +11,10 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-25**|**DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions**|Tristan Laidlow, Jan Czarnowski, Stefan Leutenegger|[2207.12244v1](http://arxiv.org/abs/2207.12244v1)|null|
 |**2022-07-25**|**Scalable Fiducial Tag Localization on a 3D Prior Map via Graph-Theoretic Global Tag-Map Registration**|Kenji Koide, Shuji Oishi, Masashi Yokozuka, Atsuhiko Banno|[2207.11942v1](http://arxiv.org/abs/2207.11942v1)|null|
-|**2022-07-22**|**NeurAR: Neural Uncertainty for Autonomous 3D Reconstruction**|Yunlong Ran, Jing Zeng, Shibo He, Lincheng Li, Yingfeng Chen, Gimhee Lee, Jiming Chen, Qi Ye|[2207.10985v1](http://arxiv.org/abs/2207.10985v1)|null|
-|**2022-07-22**|**Dense RGB-D-Inertial SLAM with Map Deformations**|Tristan Laidlow, Michael Bloesch, Wenbin Li, Stefan Leutenegger|[2207.10940v1](http://arxiv.org/abs/2207.10940v1)|null|
-|**2022-07-22**|**PLD-SLAM: A Real-Time Visual SLAM Using Points and Line Segments in Dynamic Scenes**|BaoSheng Zhang|[2207.10916v1](http://arxiv.org/abs/2207.10916v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi, Xin Yu, Shan Wang, Hongdong Li|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
 |**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu, Jiaxuan Wang, Alain Pagani, Didier Stricker|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa, Shun Taguchi, Noriaki Hirose|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
 |**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi, Hongdong Li|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
@@ -23,7 +24,6 @@
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng, Hyo Jin Kim, Vincent Lee, Daniel DeTone, Tsun-Yi Yang, Tianwei Shen, Eddy Ilg, Vassileios Balntas, Krystian Mikolajczyk, Chris Sweeney|[2112.12785v2](http://arxiv.org/abs/2112.12785v2)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang, Muhamad Risqi U. Saputra, Chris Xiaoxuan Lu, Niki Trigon, Andrew Markham|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
 |**2021-09-20**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
-|**2021-09-15**|**S3LAM: Structured Scene SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2109.07339v2](http://arxiv.org/abs/2109.07339v2)|null|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-06**|**Collision Avoidance for Dynamic Obstacles with Uncertain Predictions using Model Predictive Control**|Siddharth H. Nair, Eric H. Tseng, Francesco Borrelli|[2208.03529v1](http://arxiv.org/abs/2208.03529v1)|null|
 |**2022-08-05**|**Leveraging Distributional Bias for Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach**|Anish Gupta, Arun Kumar Singh, K. Madhava Krishna|[2208.03038v1](http://arxiv.org/abs/2208.03038v1)|null|
 |**2022-07-27**|**NAUTS: Negotiation for Adaptation to Unstructured Terrain Surfaces**|Sriram Siva, Maggie Wigness, John G. Rogers, Long Quang, Hao Zhang|[2207.13647v2](http://arxiv.org/abs/2207.13647v2)|null|
 |**2022-07-10**|**Spatiotemporal motion planning with combinatorial reasoning for autonomous driving**|Klemens Esterle, Patrick Hart, Julian Bernhard, Alois Knoll|[2207.04418v1](http://arxiv.org/abs/2207.04418v1)|null|
@@ -62,7 +63,6 @@
 |**2022-05-16**|**Moving Target Interception Considering Dynamic Environment**|Chendi Qu, Jianping He, Jialun Li, Chongrong Fang, Yilin Mo|[2205.07772v1](http://arxiv.org/abs/2205.07772v1)|null|
 |**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
 |**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-Assisted Memoization**|Mulong Luo, G. Edward Suh|[2205.02754v2](http://arxiv.org/abs/2205.02754v2)|null|
-|**2022-04-20**|**Risk-Averse Receding Horizon Motion Planning**|Anushri Dixit, Mohamadreza Ahmadi, Joel W. Burdick|[2204.09596v1](http://arxiv.org/abs/2204.09596v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
