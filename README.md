@@ -53,6 +53,8 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-17**|**Deep Reinforcement Learning based Robot Navigation in Dynamic Environments using Occupancy Values of Motion Primitives**|Neşet Ünver Akmandor, Hongyu Li, Gary Lvov, Eric Dusel, Taşkın Padır|[2208.08034v1](http://arxiv.org/abs/2208.08034v1)|**[link](https://github.com/RIVeR-Lab/tentabot)**|
+|**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani, Spring Berman, Georgios Fainekos|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-06**|**Collision Avoidance for Dynamic Obstacles with Uncertain Predictions using Model Predictive Control**|Siddharth H. Nair, Eric H. Tseng, Francesco Borrelli|[2208.03529v1](http://arxiv.org/abs/2208.03529v1)|null|
 |**2022-08-05**|**Leveraging Distributional Bias for Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach**|Anish Gupta, Arun Kumar Singh, K. Madhava Krishna|[2208.03038v1](http://arxiv.org/abs/2208.03038v1)|null|
 |**2022-07-27**|**NAUTS: Negotiation for Adaptation to Unstructured Terrain Surfaces**|Sriram Siva, Maggie Wigness, John G. Rogers, Long Quang, Hao Zhang|[2207.13647v2](http://arxiv.org/abs/2207.13647v2)|null|
@@ -61,8 +63,6 @@
 |**2022-06-17**|**N$^2$M$^2$: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments**|Daniel Honerkamp, Tim Welschehold, Abhinav Valada|[2206.08737v1](http://arxiv.org/abs/2206.08737v1)|null|
 |**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v2](http://arxiv.org/abs/2206.05728v2)|**[link](https://github.com/ignc-research/arena-bench)**|
 |**2022-05-16**|**Moving Target Interception Considering Dynamic Environment**|Chendi Qu, Jianping He, Jialun Li, Chongrong Fang, Yilin Mo|[2205.07772v1](http://arxiv.org/abs/2205.07772v1)|null|
-|**2022-05-12**|**Provably Safe Deep Reinforcement Learning for Robotic Manipulation in Human Environments**|Jakob Thumm, Matthias Althoff|[2205.06311v1](http://arxiv.org/abs/2205.06311v1)|null|
-|**2022-05-05**|**Accelerating Path Planning for Autonomous Driving with Hardware-Assisted Memoization**|Mulong Luo, G. Edward Suh|[2205.02754v2](http://arxiv.org/abs/2205.02754v2)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
