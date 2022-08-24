@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge, Ossi Kaltiokallio, Hui Chen, Fan Jiang, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
+|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang, Michael Helmberger, Lanke Frank Tarimo Fu, David Wisth, Marco Camurri, Davide Scaramuzza, Maurice Fallon|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
+|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong, Gang Zeng|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui, Yinlong Zhang, Xieyuanli Chen, Jiahua Dong, Qingxiao Wu, Feng Zhu|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana, Tiziano Guadagnino, Giorgio Grisetti|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
@@ -8,9 +11,6 @@
 |**2022-08-08**|**SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**|Shuai Zhang, Liang Zhao, Shoudong Huang, Hua Wang, Qi Luo, Qi Hao|[2208.03945v1](http://arxiv.org/abs/2208.03945v1)|**[link](https://github.com/zsustc/calibration)**|
 |**2022-08-05**|**A Survey on Visual Map Localization Using LiDARs and Cameras**|Elhousni Mahdi, Huang Xinming|[2208.03376v1](http://arxiv.org/abs/2208.03376v1)|null|
 |**2022-08-04**|**SROS2: Usable Cyber Security Tools for ROS 2**|Victor Mayoral Vilches, Ruffin White, Gianluca Caiazza, Mikael Arguedas|[2208.02615v1](http://arxiv.org/abs/2208.02615v1)|**[link](https://github.com/ros-swg/turtlebot3_demo)**|
-|**2022-08-03**|**Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**|Bharath Garigipati, Nataliya Strokina, Reza Ghabcheloo|[2208.02063v1](http://arxiv.org/abs/2208.02063v1)|null|
-|**2022-08-02**|**Present and Future of SLAM in Extreme Underground Environments**|Kamak Ebadi, Lukas Bernreiter, Harel Biggie, Gavin Catt, Yun Chang, Arghya Chatterjee, Christopher E. Denniston, Simon-Pierre Deschênes, Kyle Harlow, Shehryar Khattak, Lucas Nogueira, Matteo Palieri, Pavel Petráček, Matěj Petrlík, Andrzej Reinke, Vít Krátký, Shibo Zhao, Ali-akbar Agha-mohammadi, Kostas Alexis, Christoffer Heckman, Kasra Khosoussi, Navinda Kottege, Benjamin Morrell, Marco Hutter, Fred Pauling, François Pomerleau, Martin Saska, Sebastian Scherer, Roland Siegwart, Jason L. Williams, Luca Carlone|[2208.01787v1](http://arxiv.org/abs/2208.01787v1)|null|
-|**2022-08-01**|**Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**|Simon Boche, Xingxing Zuo, Simon Schaefer, Stefan Leutenegger|[2208.00709v1](http://arxiv.org/abs/2208.00709v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
