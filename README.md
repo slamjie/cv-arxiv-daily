@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
+|**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin, Abulikemu Abuduweili, Shiqi Zhao, Changliu Liu, Sebastian Scherer|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa, Tim Verbelen, Ilja Ocket, André Bourdoux, Hichem Sahli, Francky Catthoor, Georges Gielen|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao, Hexiang Wei, Tianshuai Hu, Xiangcheng Hu, Yilong Zhu, Zhijian He, Jin Wu, Jingwen Yu, Xupeng Xie, Huaiyang Huang, Ruoyu Geng, Lujia Wang, Ming Liu|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
@@ -9,8 +11,6 @@
 |**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang, Michael Helmberger, Lanke Frank Tarimo Fu, David Wisth, Marco Camurri, Davide Scaramuzza, Maurice Fallon|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
 |**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong, Gang Zeng|[2208.09777v2](http://arxiv.org/abs/2208.09777v2)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui, Yinlong Zhang, Xieyuanli Chen, Jiahua Dong, Qingxiao Wu, Feng Zhu|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
-|**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana, Tiziano Guadagnino, Giorgio Grisetti|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
-|**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang, Deva Ramanan, Shubham Tulsiani|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-08-31**|**Optimization-based Motion Planning for Multirotor Aerial Vehicles: a Review**|Geesara Kulathunga, Alexandr Klimchik|[2208.14647v1](http://arxiv.org/abs/2208.14647v1)|null|
 |**2022-08-28**|**Differential Flatness-Based Trajectory Planning for Autonomous Vehicles**|Zhichao Han, Yuwei Wu, Tong Li, Lu Zhang, Liuao Pei, Long Xu, Chengyang Li, Changjia Ma, Chao Xu, Shaojie Shen, Fei Gao|[2208.13160v1](http://arxiv.org/abs/2208.13160v1)|null|
 |**2022-08-17**|**Deep Reinforcement Learning based Robot Navigation in Dynamic Environments using Occupancy Values of Motion Primitives**|Neşet Ünver Akmandor, Hongyu Li, Gary Lvov, Eric Dusel, Taşkın Padır|[2208.08034v1](http://arxiv.org/abs/2208.08034v1)|**[link](https://github.com/RIVeR-Lab/tentabot)**|
 |**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani, Spring Berman, Georgios Fainekos|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
@@ -62,7 +63,6 @@
 |**2022-07-10**|**Spatiotemporal motion planning with combinatorial reasoning for autonomous driving**|Klemens Esterle, Patrick Hart, Julian Bernhard, Alois Knoll|[2207.04418v1](http://arxiv.org/abs/2207.04418v1)|null|
 |**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 |**2022-06-17**|**N$^2$M$^2$: Learning Navigation for Arbitrary Mobile Manipulation Motions in Unseen and Dynamic Environments**|Daniel Honerkamp, Tim Welschehold, Abhinav Valada|[2206.08737v1](http://arxiv.org/abs/2206.08737v1)|null|
-|**2022-06-12**|**Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments**|Linh Kästner, Teham Bhuiyan, Tuan Anh Le, Elias Treis, Johannes Cox, Boris Meinardus, Jacek Kmiecik, Reyk Carstens, Duc Pichel, Bassel Fatloun, Niloufar Khorsandi, Jens Lambrecht|[2206.05728v2](http://arxiv.org/abs/2206.05728v2)|**[link](https://github.com/ignc-research/arena-bench)**|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
