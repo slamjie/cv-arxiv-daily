@@ -42,6 +42,7 @@
 |---|---|---|---|---|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v2](http://arxiv.org/abs/2208.06999v2)|**[link](https://github.com/wenchao-m/how-3d)**|
+|**2022-06-27**|**Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling**|Mathieu Marsot, Stefanie Wuhrer, Jean-Sebastien Franco, Anne Hélène Olivier|[2206.13142v2](http://arxiv.org/abs/2206.13142v2)|null|
 |**2022-06-22**|**Hellinger-Kantorovich barycenter between Dirac measures**|Mauro Bonafini, Olga Minevich, Bernhard Schmitzer|[2206.11211v1](http://arxiv.org/abs/2206.11211v1)|null|
 |**2022-05-26**|**Tree Reconstruction using Topology Optimisation**|Thomas Lowe, Joshua Pinskier|[2205.13192v1](http://arxiv.org/abs/2205.13192v1)|null|
 |**2022-02-08**|**GLPU: A Geometric Approach For Lidar Pointcloud Upsampling**|George Eskandar, Janaranjani Palaniswamy, Karim Guirguis, Barath Somashekar, Bin Yang|[2202.03901v1](http://arxiv.org/abs/2202.03901v1)|null|
@@ -49,7 +50,6 @@
 |**2021-12-16**|**Analysis and Evaluation of Kinect-based Action Recognition Algorithms**|Lei Wang|[2112.08626v1](http://arxiv.org/abs/2112.08626v1)|**[link](https://github.com/LeiWangR/HDG)**|
 |**2021-09-15**|**Two algorithms for vehicular obstacle detection in sparse pointcloud**|Simone Mentasti, Matteo Matteucci, Stefano Arrigoni, Federico Cheli|[2109.07288v1](http://arxiv.org/abs/2109.07288v1)|null|
 |**2021-08-30**|**COMPRA: A COMPact Reactive Autonomy framework for subterranean MAV based search-and-rescue operations**|Björn Lindqvist, Christoforos Kanellakis, Sina Sharif Mansouri, Ali-akbar Agha-mohammadi, George Nikolakopoulos|[2108.13105v2](http://arxiv.org/abs/2108.13105v2)|null|
-|**2021-08-13**|**Is Pseudo-Lidar needed for Monocular 3D Object detection?**|Dennis Park, Rares Ambrus, Vitor Guizilini, Jie Li, Adrien Gaidon|[2108.06417v1](http://arxiv.org/abs/2108.06417v1)|**[link](https://github.com/tri-ml/dd3d)**|
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
