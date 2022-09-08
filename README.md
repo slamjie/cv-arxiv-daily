@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren, Ram Vasudevan, Michael Kaess, Timothy W. McLain, Joshua G. Mangelson|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|null|
+|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
+|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev, Evgeny Kruzhkov, Evgeny Yudin, Alena Savinykh, Andrei Potapov, Mikhail Kurenkov, Anton Kolomeytsev, Ivan Kalinov, Dzmitry Tsetserukou|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
+|**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu, Lujia Wang, Ming Liu|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin, Pavel Karpyshev, Mikhail Kurenkov, Alena Savinykh, Andrei Potapov, Evgeny Kruzhkov, Dzmitry Tsetserukou|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-31**|**PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM**|Yifan Duan, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang|[2208.14848v1](http://arxiv.org/abs/2208.14848v1)|null|
 |**2022-08-30**|**BioSLAM: A Bio-inspired Lifelong Memory System for General Place Recognition**|Peng Yin, Abulikemu Abuduweili, Shiqi Zhao, Changliu Liu, Sebastian Scherer|[2208.14543v1](http://arxiv.org/abs/2208.14543v1)|null|
 |**2022-08-27**|**Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**|Ali Safa, Tim Verbelen, Ilja Ocket, André Bourdoux, Hichem Sahli, Francky Catthoor, Georges Gielen|[2208.12997v1](http://arxiv.org/abs/2208.12997v1)|null|
 |**2022-08-25**|**FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**|Jianhao Jiao, Hexiang Wei, Tianshuai Hu, Xiangcheng Hu, Yilong Zhu, Zhijian He, Jin Wu, Jingwen Yu, Xupeng Xie, Huaiyang Huang, Ruoyu Geng, Lujia Wang, Ming Liu|[2208.11865v1](http://arxiv.org/abs/2208.11865v1)|null|
 |**2022-08-25**|**Lidar SLAM for Autonomous Driving Vehicles**|Farhad Aghili|[2208.11855v1](http://arxiv.org/abs/2208.11855v1)|null|
-|**2022-08-24**|**DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**|Seungwon Song, Hyungtae Lim, Alex Junho Lee, Hyun Myung|[2208.11500v1](http://arxiv.org/abs/2208.11500v1)|**[link](https://github.com/url-kaist/dynavins)**|
-|**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge, Ossi Kaltiokallio, Hui Chen, Fan Jiang, Jukka Talvitie, Mikko Valkama, Lennart Svensson, Henk Wymeersch|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
-|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang, Michael Helmberger, Lanke Frank Tarimo Fu, David Wisth, Marco Camurri, Davide Scaramuzza, Maurice Fallon|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
-|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong, Gang Zeng|[2208.09777v2](http://arxiv.org/abs/2208.09777v2)|null|
-|**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui, Yinlong Zhang, Xieyuanli Chen, Jiahua Dong, Qingxiao Wu, Feng Zhu|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin, Pavel Karpyshev, Mikhail Kurenkov, Alena Savinykh, Andrei Potapov, Evgeny Kruzhkov, Dzmitry Tsetserukou|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong, Shuzhe Wang, Yixin Zhuang, Juho Kannala, Marc Pollefeys, Baoquan Chen|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|**[link](https://github.com/siyandong/src)**|
 |**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai, Jiahao Chen, Yusheng Lu, Wenlong Hao, Enhui Zheng|[2208.06561v1](http://arxiv.org/abs/2208.06561v1)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
@@ -36,7 +37,6 @@
 |**2022-05-31**|**Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark**|Martin Humenberger, Yohann Cabon, Noé Pion, Philippe Weinzaepfel, Donghwan Lee, Nicolas Guérin, Torsten Sattler, Gabriela Csurka|[2205.15761v1](http://arxiv.org/abs/2205.15761v1)|**[link](https://github.com/naver/kapture-localization)**|
 |**2022-05-25**|**Deep Dense Local Feature Matching and Vehicle Removal for Indoor Visual Localization**|Kyung Ho Park|[2205.12544v1](http://arxiv.org/abs/2205.12544v1)|null|
 |**2022-05-24**|**OnePose: One-Shot Object Pose Estimation without CAD Models**|Jiaming Sun, Zihao Wang, Siyu Zhang, Xingyi He, Hongcheng Zhao, Guofeng Zhang, Xiaowei Zhou|[2205.12257v1](http://arxiv.org/abs/2205.12257v1)|**[link](https://github.com/zju3dv/OnePose)**|
-|**2022-05-23**|**VPAIR -- Aerial Visual Place Recognition and Localization in Large-scale Outdoor Environments**|Michael Schleiss, Fahmi Rouatbi, Daniel Cremers|[2205.11567v1](http://arxiv.org/abs/2205.11567v1)|**[link](https://github.com/aervisloc/vpair)**|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-08-31**|**Optimization-based Motion Planning for Multirotor Aerial Vehicles: a Review**|Geesara Kulathunga, Alexandr Klimchik|[2208.14647v1](http://arxiv.org/abs/2208.14647v1)|null|
 |**2022-08-28**|**Differential Flatness-Based Trajectory Planning for Autonomous Vehicles**|Zhichao Han, Yuwei Wu, Tong Li, Lu Zhang, Liuao Pei, Long Xu, Chengyang Li, Changjia Ma, Chao Xu, Shaojie Shen, Fei Gao|[2208.13160v1](http://arxiv.org/abs/2208.13160v1)|null|
@@ -62,7 +63,6 @@
 |**2022-08-05**|**Leveraging Distributional Bias for Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach**|Anish Gupta, Arun Kumar Singh, K. Madhava Krishna|[2208.03038v1](http://arxiv.org/abs/2208.03038v1)|null|
 |**2022-07-27**|**NAUTS: Negotiation for Adaptation to Unstructured Terrain Surfaces**|Sriram Siva, Maggie Wigness, John G. Rogers, Long Quang, Hao Zhang|[2207.13647v2](http://arxiv.org/abs/2207.13647v2)|null|
 |**2022-07-10**|**Spatiotemporal motion planning with combinatorial reasoning for autonomous driving**|Klemens Esterle, Patrick Hart, Julian Bernhard, Alois Knoll|[2207.04418v1](http://arxiv.org/abs/2207.04418v1)|null|
-|**2022-07-08**|**Reactive Neural Path Planning with Dynamic Obstacle Avoidance in a Condensed Configuration Space**|Lea Steffen, Tobias Weyer, Stefan Ulbrich, Arne Roennau, Rüdiger Dillmann|[2207.03959v1](http://arxiv.org/abs/2207.03959v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
