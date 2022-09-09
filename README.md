@@ -1,7 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren, Ram Vasudevan, Michael Kaess, Timothy W. McLain, Joshua G. Mangelson|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|null|
+|**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren, Ram Vasudevan, Michael Kaess, Timothy W. McLain, Joshua G. Mangelson|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev, Evgeny Kruzhkov, Evgeny Yudin, Alena Savinykh, Andrei Potapov, Mikhail Kurenkov, Anton Kolomeytsev, Ivan Kalinov, Dzmitry Tsetserukou|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 |**2022-09-05**|**ElasticROS: An Elastically Collaborative Robot Operation System for Fog and Cloud Robotics**|Boyi Liu, Lujia Wang, Ming Liu|[2209.01774v1](http://arxiv.org/abs/2209.01774v1)|null|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-07**|**DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments**|Aakriti Agrawal, Senthil Hariharan, Amrit Singh Bedi, Dinesh Manocha|[2209.02865v1](http://arxiv.org/abs/2209.02865v1)|null|
 |**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-08-31**|**Optimization-based Motion Planning for Multirotor Aerial Vehicles: a Review**|Geesara Kulathunga, Alexandr Klimchik|[2208.14647v1](http://arxiv.org/abs/2208.14647v1)|null|
@@ -62,7 +63,6 @@
 |**2022-08-06**|**Collision Avoidance for Dynamic Obstacles with Uncertain Predictions using Model Predictive Control**|Siddharth H. Nair, Eric H. Tseng, Francesco Borrelli|[2208.03529v1](http://arxiv.org/abs/2208.03529v1)|null|
 |**2022-08-05**|**Leveraging Distributional Bias for Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach**|Anish Gupta, Arun Kumar Singh, K. Madhava Krishna|[2208.03038v1](http://arxiv.org/abs/2208.03038v1)|null|
 |**2022-07-27**|**NAUTS: Negotiation for Adaptation to Unstructured Terrain Surfaces**|Sriram Siva, Maggie Wigness, John G. Rogers, Long Quang, Hao Zhang|[2207.13647v2](http://arxiv.org/abs/2207.13647v2)|null|
-|**2022-07-10**|**Spatiotemporal motion planning with combinatorial reasoning for autonomous driving**|Klemens Esterle, Patrick Hart, Julian Bernhard, Alois Knoll|[2207.04418v1](http://arxiv.org/abs/2207.04418v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
