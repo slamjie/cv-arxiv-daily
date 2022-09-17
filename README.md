@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun, Beth Jelfs, Kamran Ghorbani, Glenn Matthews, Christopher Gilliam|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
+|**2022-09-15**|**PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**|Xianwei Meng, Bonian Li|[2209.07061v1](http://arxiv.org/abs/2209.07061v1)|null|
 |**2022-09-14**|**Semantic Visual Simultaneous Localization and Mapping: A Survey**|Kaiqi Chen, Jianhua Zhang, Jialing Liu, Qiyi Tong, Ruyu Liu, Shengyong Chen|[2209.06428v1](http://arxiv.org/abs/2209.06428v1)|null|
 |**2022-09-13**|**Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**|Islam Ali, Hong Zhang|[2209.06316v1](http://arxiv.org/abs/2209.06316v1)|null|
 |**2022-09-12**|**A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**|Tin Lai|[2209.05222v1](http://arxiv.org/abs/2209.05222v1)|null|
@@ -9,8 +11,6 @@
 |**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed, Juan J. Gómez Rodríguez, Juan D. Tardós, José A. Castellanos|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|**[link](https://github.com/julioplaced/explorb-slam)**|
 |**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin, Fu Zhang|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren, Ram Vasudevan, Michael Kaess, Timothy W. McLain, Joshua G. Mangelson|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
-|**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner, Lazar Supic, Andreea Danielescu, Giacomo Indiveri, E. Paxon Frady, Friedrich T. Sommer, Yulia Sandamirskaya|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
-|**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev, Evgeny Kruzhkov, Evgeny Yudin, Alena Savinykh, Andrei Potapov, Mikhail Kurenkov, Anton Kolomeytsev, Ivan Kalinov, Dzmitry Tsetserukou|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-15**|**Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization**|Zhefan Xu, Yumeng Xiu, Xiaoyang Zhan, Baihan Chen, Kenji Shimada|[2209.07003v1](http://arxiv.org/abs/2209.07003v1)|null|
 |**2022-09-11**|**Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios**|Jaskirat Singh, Neel Adwani, Harikumar Kandath, K. Madhava Krishna|[2209.04805v1](http://arxiv.org/abs/2209.04805v1)|null|
 |**2022-09-07**|**DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments**|Aakriti Agrawal, Senthil Hariharan, Amrit Singh Bedi, Dinesh Manocha|[2209.02865v1](http://arxiv.org/abs/2209.02865v1)|null|
 |**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
@@ -62,7 +63,6 @@
 |**2022-08-17**|**Deep Reinforcement Learning based Robot Navigation in Dynamic Environments using Occupancy Values of Motion Primitives**|Neşet Ünver Akmandor, Hongyu Li, Gary Lvov, Eric Dusel, Taşkın Padır|[2208.08034v1](http://arxiv.org/abs/2208.08034v1)|**[link](https://github.com/RIVeR-Lab/tentabot)**|
 |**2022-08-16**|**NMPC-LBF: Nonlinear MPC with Learned Barrier Function for Decentralized Safe Navigation of Multiple Robots in Unknown Environments**|Amir Salimi Lafmejani, Spring Berman, Georgios Fainekos|[2208.07974v1](http://arxiv.org/abs/2208.07974v1)|null|
 |**2022-08-06**|**Collision Avoidance for Dynamic Obstacles with Uncertain Predictions using Model Predictive Control**|Siddharth H. Nair, Eric H. Tseng, Francesco Borrelli|[2208.03529v1](http://arxiv.org/abs/2208.03529v1)|null|
-|**2022-08-05**|**Leveraging Distributional Bias for Reactive Collision Avoidance under Uncertainty: A Kernel Embedding Approach**|Anish Gupta, Arun Kumar Singh, K. Madhava Krishna|[2208.03038v1](http://arxiv.org/abs/2208.03038v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
