@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son, Jing Liang, Ming Lin, Dinesh Manocha|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
+|**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce, Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
+|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov, Alena Savinykh, Pavel Karpyshev, Mikhail Kurenkov, Evgeny Yudin, Andrei Potapov, Dzmitry Tsetserukou|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
 |**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang, Jinping Wang, Lu Jie, Nanjie Chen, Xiaojun Tan, Zhifei Duan|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 |**2022-09-18**|**HGI-SLAM: Loop Closure With Human and Geometric Importance Features**|Shuhul Mujoo, Jerry Ng|[2209.08608v1](http://arxiv.org/abs/2209.08608v1)|null|
-|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan, Ignacio Torroba, Yiping Xie, John Folkesson|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|null|
+|**2022-09-18**|**Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**|Jiarui Tan, Ignacio Torroba, Yiping Xie, John Folkesson|[2209.08578v1](http://arxiv.org/abs/2209.08578v1)|**[link](https://github.com/tjr16/bathy_nn_learning)**|
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
-|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|null|
+|**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|**[link](https://github.com/stanford-navlab/planeslam)**|
 |**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
-|**2022-09-16**|**iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**|Yuhang Ming, Weicai Ye, Andrew Calway|[2209.07919v1](http://arxiv.org/abs/2209.07919v1)|null|
-|**2022-09-16**|**TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**|Mathieu Gonzalez, Eric Marchand, Amine Kacete, Jérôme Royan|[2209.07888v1](http://arxiv.org/abs/2209.07888v1)|null|
-|**2022-09-15**|**Landmark Management in the Application of Radar SLAM**|Shuai Sun, Beth Jelfs, Kamran Ghorbani, Glenn Matthews, Christopher Gilliam|[2209.07199v1](http://arxiv.org/abs/2209.07199v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-19**|**Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving Under Static and Dynamic Obstacle Constraints**|Rowan Dempster, Mohammad Al-Sharman, Derek Rayside, William Melek|[2209.09320v1](http://arxiv.org/abs/2209.09320v1)|null|
 |**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth, Jing Liang, Ram Sriram, Elham Tabassi, Dinesh Manocha|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|null|
 |**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian, Zihong Yan, Xuanang Lei, Zihong Lu, Bin Lan, Xueqian Wang, Bin Liang|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|null|
 |**2022-09-17**|**A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera**|Zhefan Xu, Xiaoyang Zhan, Baihan Chen, Yumeng Xiu, Chenhao Yang, Kenji Shimada|[2209.08258v1](http://arxiv.org/abs/2209.08258v1)|null|
@@ -62,7 +63,6 @@
 |**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 |**2022-08-31**|**Optimization-based Motion Planning for Multirotor Aerial Vehicles: a Review**|Geesara Kulathunga, Alexandr Klimchik|[2208.14647v1](http://arxiv.org/abs/2208.14647v1)|null|
-|**2022-08-28**|**Differential Flatness-Based Trajectory Planning for Autonomous Vehicles**|Zhichao Han, Yuwei Wu, Tong Li, Lu Zhang, Liuao Pei, Long Xu, Chengyang Li, Changjia Ma, Chao Xu, Shaojie Shen, Fei Gao|[2208.13160v1](http://arxiv.org/abs/2208.13160v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
