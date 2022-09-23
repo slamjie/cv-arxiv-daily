@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain, Xianke Lin|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son, Jing Liang, Ming Lin, Dinesh Manocha|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce, Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
 |**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov, Alena Savinykh, Pavel Karpyshev, Mikhail Kurenkov, Evgeny Yudin, Andrei Potapov, Dzmitry Tsetserukou|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
@@ -10,7 +11,6 @@
 |**2022-09-17**|**DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**|Shihao Shen, Yilin Cai, Wenshan Wang, Sebastian Scherer|[2209.08430v1](http://arxiv.org/abs/2209.08430v1)|**[link](https://github.com/geniussh/dytanvo)**|
 |**2022-09-17**|**OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**|Matthieu Zins, Gilles Simon, Marie-Odile Berger|[2209.08338v1](http://arxiv.org/abs/2209.08338v1)|null|
 |**2022-09-17**|**PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**|Adam Dai, Greg Lund, Grace Gao|[2209.08248v1](http://arxiv.org/abs/2209.08248v1)|**[link](https://github.com/stanford-navlab/planeslam)**|
-|**2022-09-16**|**ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**|Aditya Arun, William Hunter, Roshan Ayyalasomayajula, Dinesh Bharadia|[2209.08091v1](http://arxiv.org/abs/2209.08091v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
