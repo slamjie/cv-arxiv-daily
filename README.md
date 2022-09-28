@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-24**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes, Nikolaos Bousias, Evangelos Chatzipantazis, George J. Pappas|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
+|**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
 |**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman, Vadim Indelman|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
 |**2022-09-23**|**Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**|David Balaban, Justin Hart|[2209.11432v1](http://arxiv.org/abs/2209.11432v1)|null|
 |**2022-09-22**|**SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**|Xiao Han, Lu Yang|[2209.10817v1](http://arxiv.org/abs/2209.10817v1)|null|
@@ -9,8 +11,6 @@
 |**2022-09-20**|**Uncertainty-Aware Tightly-Coupled GPS Fused LIO-SLAM**|Sabir Hossain, Xianke Lin|[2209.10047v1](http://arxiv.org/abs/2209.10047v1)|null|
 |**2022-09-20**|**WGICP: Differentiable Weighted GICP-Based Lidar Odometry**|Sanghyun Son, Jing Liang, Ming Lin, Dinesh Manocha|[2209.09777v1](http://arxiv.org/abs/2209.09777v1)|null|
 |**2022-09-20**|**PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration using Panoptic Attention**|José Arce, Niclas Vödisch, Daniele Cattaneo, Wolfram Burgard, Abhinav Valada|[2209.09699v1](http://arxiv.org/abs/2209.09699v1)|null|
-|**2022-09-19**|**MeSLAM: Memory Efficient SLAM based on Neural Fields**|Evgenii Kruzhkov, Alena Savinykh, Pavel Karpyshev, Mikhail Kurenkov, Evgeny Yudin, Andrei Potapov, Dzmitry Tsetserukou|[2209.09357v1](http://arxiv.org/abs/2209.09357v1)|null|
-|**2022-09-19**|**LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**|Letian Zhang, Jinping Wang, Lu Jie, Nanjie Chen, Xiaojun Tan, Zhifei Duan|[2209.08810v1](http://arxiv.org/abs/2209.08810v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-26**|**Edge-assisted Collaborative Digital Twin for Safety-Critical Robotics in Industrial IoT**|Sumit K. Das, Mohammad Helal Uddin, Sabur Baidya|[2209.12854v1](http://arxiv.org/abs/2209.12854v1)|null|
 |**2022-09-19**|**Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving Under Static and Dynamic Obstacle Constraints**|Rowan Dempster, Mohammad Al-Sharman, Derek Rayside, William Melek|[2209.09320v1](http://arxiv.org/abs/2209.09320v1)|null|
 |**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth, Jing Liang, Ram Sriram, Elham Tabassi, Dinesh Manocha|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|null|
 |**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian, Zihong Yan, Xuanang Lei, Zihong Lu, Bin Lan, Xueqian Wang, Bin Liang|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|null|
@@ -62,7 +63,6 @@
 |**2022-09-07**|**DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments**|Aakriti Agrawal, Senthil Hariharan, Amrit Singh Bedi, Dinesh Manocha|[2209.02865v1](http://arxiv.org/abs/2209.02865v1)|null|
 |**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
 |**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
-|**2022-08-31**|**Optimization-based Motion Planning for Multirotor Aerial Vehicles: a Review**|Geesara Kulathunga, Alexandr Klimchik|[2208.14647v1](http://arxiv.org/abs/2208.14647v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
