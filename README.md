@@ -53,6 +53,8 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-28**|**Obstacle Identification and Ellipsoidal Decomposition for Fast Motion Planning in Unknown Dynamic Environments**|Mehmetcan Kaymaz, Nazim Kemal Ure|[2209.14233v1](http://arxiv.org/abs/2209.14233v1)|null|
+|**2022-09-27**|**Intercepting A Flying Target While Avoiding Moving Obstacles: A Unified Control Framework With Deep Manifold Learning**|Apan Dastider, Mingjie Lin|[2209.13628v1](http://arxiv.org/abs/2209.13628v1)|null|
 |**2022-09-26**|**Edge-assisted Collaborative Digital Twin for Safety-Critical Robotics in Industrial IoT**|Sumit K. Das, Mohammad Helal Uddin, Sabur Baidya|[2209.12854v1](http://arxiv.org/abs/2209.12854v1)|null|
 |**2022-09-19**|**Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving Under Static and Dynamic Obstacle Constraints**|Rowan Dempster, Mohammad Al-Sharman, Derek Rayside, William Melek|[2209.09320v1](http://arxiv.org/abs/2209.09320v1)|null|
 |**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth, Jing Liang, Ram Sriram, Elham Tabassi, Dinesh Manocha|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|null|
@@ -61,8 +63,6 @@
 |**2022-09-15**|**Vision-aided UAV Navigation and Dynamic Obstacle Avoidance using Gradient-based B-spline Trajectory Optimization**|Zhefan Xu, Yumeng Xiu, Xiaoyang Zhan, Baihan Chen, Kenji Shimada|[2209.07003v1](http://arxiv.org/abs/2209.07003v1)|null|
 |**2022-09-11**|**Real-Time Heuristic Framework for Safe Landing of UAVs in Dynamic Scenarios**|Jaskirat Singh, Neel Adwani, Harikumar Kandath, K. Madhava Krishna|[2209.04805v1](http://arxiv.org/abs/2209.04805v1)|null|
 |**2022-09-07**|**DC-MRTA: Decentralized Multi-Robot Task Allocation and Navigation in Complex Environments**|Aakriti Agrawal, Senthil Hariharan, Amrit Singh Bedi, Dinesh Manocha|[2209.02865v1](http://arxiv.org/abs/2209.02865v1)|null|
-|**2022-09-02**|**Deep-PANTHER: Learning-Based Perception-Aware Trajectory Planner in Dynamic Environments**|Jesus Tordesillas, Jonathan P. How|[2209.01268v1](http://arxiv.org/abs/2209.01268v1)|null|
-|**2022-09-02**|**3D Path Planning and Obstacle Avoidance Algorithms for Obstacle-Overcoming Robots**|Yuanhao huang, Shi Huang, Hao Wang, Ruifeng Meng|[2209.00871v1](http://arxiv.org/abs/2209.00871v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
