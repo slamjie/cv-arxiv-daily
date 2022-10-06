@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell, Yewei Huang, Paul Szenher, Ivana Collado-Gonzalez, Brendan Englot|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|null|
-|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus, Fritze Clemens, Konrad Bartsch, Elmar Rueckert|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
+|**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang, Anne Kemmeren, Daniel Son, Javier Alonso-Mora, Stephanie Gil|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
+|**2022-10-03**|**Probabilistic Volumetric Fusion for Dense Monocular SLAM**|Antoni Rosinol, John J. Leonard, Luca Carlone|[2210.01276v1](http://arxiv.org/abs/2210.01276v1)|null|
+|**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell, Yewei Huang, Paul Szenher, Ivana Collado-Gonzalez, Brendan Englot|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|**[link](https://github.com/jake3991/draco-slam)**|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian, Mohammad R. Ahmadzadeh|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
 |**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang, Dasong Gao, Kuan Xu, Junyi Geng, Yaoyu Hu, Yuheng Qiu, Bowen Li, Fan Yang, Brady Moon, Abhinav Pandey, Aryan, Jiahe Xu, Tianhao Wu, Haonan He, Daning Huang, Zhongqiang Ren, Shibo Zhao, Taimeng Fu, Pranay Reddy, Xiao Lin, Wenshan Wang, Jingnan Shi, Rajat Talak, Han Wang, Huai Yu, Shanzhao Wang, Ananth Kashyap, Rohan Bandaru, Karthik Dantu, Jiajun Wu, Luca Carlone, Marco Hutter, Sebastian Scherer|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-28**|**Robust Incremental Smoothing and Mapping (riSAM)**|Daniel McGann, John G. Rogers III, Michael Kaess|[2209.14359v1](http://arxiv.org/abs/2209.14359v1)|null|
 |**2022-09-27**|**Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**|Chi-Ming Chung, Yang-Che Tseng, Ya-Ching Hsu, Xiang-Qian Shi, Yun-Hung Hua, Jia-Fong Yeh, Wen-Chin Chen, Yi-Ting Chen, Winston H. Hsu|[2209.13274v1](http://arxiv.org/abs/2209.13274v1)|null|
-|**2022-09-24**|**Graph Neural Networks for Multi-Robot Active Information Acquisition**|Mariliza Tzes, Nikolaos Bousias, Evangelos Chatzipantazis, George J. Pappas|[2209.12091v1](http://arxiv.org/abs/2209.12091v1)|null|
-|**2022-09-24**|**Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**|Jonathan J. Y. Kim, Martin Urschler, Patricia J. Riddle, Jörg S. Wicker|[2209.11894v1](http://arxiv.org/abs/2209.11894v1)|null|
-|**2022-09-23**|**involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**|Gilad Rotman, Vadim Indelman|[2209.11591v1](http://arxiv.org/abs/2209.11591v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,7 +40,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|null|
+|**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora, Javier Ruiz-Hidalgo|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
