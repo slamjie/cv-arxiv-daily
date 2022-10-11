@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia, Joseph Morales, Kevin J. Doherty, David M. Rosen, John J. Leonard|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur, Edgar Sucar, Andrew J. Davison|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan, Hakan Kayan, Charith Perera|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang, Hideaki Uchiyama, Shintaro Ono, Hiroshi Kawasaki|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
@@ -10,7 +11,6 @@
 |**2022-10-03**|**DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**|John McConnell, Yewei Huang, Paul Szenher, Ivana Collado-Gonzalez, Brendan Englot|[2210.00867v1](http://arxiv.org/abs/2210.00867v1)|**[link](https://github.com/jake3991/draco-slam)**|
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-10-01**|**Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**|Ali Eslamian, Mohammad R. Ahmadzadeh|[2210.00278v1](http://arxiv.org/abs/2210.00278v1)|null|
-|**2022-09-30**|**PyPose: A Library for Robot Learning with Physics-based Optimization**|Chen Wang, Dasong Gao, Kuan Xu, Junyi Geng, Yaoyu Hu, Yuheng Qiu, Bowen Li, Fan Yang, Brady Moon, Abhinav Pandey, Aryan, Jiahe Xu, Tianhao Wu, Haonan He, Daning Huang, Zhongqiang Ren, Shibo Zhao, Taimeng Fu, Pranay Reddy, Xiao Lin, Wenshan Wang, Jingnan Shi, Rajat Talak, Han Wang, Huai Yu, Shanzhao Wang, Ananth Kashyap, Rohan Bandaru, Karthik Dantu, Jiajun Wu, Luca Carlone, Marco Hutter, Sebastian Scherer|[2209.15428v1](http://arxiv.org/abs/2209.15428v1)|**[link](https://github.com/pypose/pypose)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-07**|**Real-Time Navigation for Bipedal Robots in Dynamic Environments**|Octavian A. Donca, Chayapol Beokhaimook, Ayonga Hereid|[2210.03280v1](http://arxiv.org/abs/2210.03280v1)|null|
 |**2022-10-05**|**Density Planner: Minimizing Collision Risk in Motion Planning with Dynamic Obstacles using Density-based Reachability**|Laura Lützow, Yue Meng, Andres Chavez Armijos, Chuchu Fan|[2210.02131v1](http://arxiv.org/abs/2210.02131v1)|null|
 |**2022-09-30**|**Spatio-temporal Motion Planning for Autonomous Vehicles with Trapezoidal Prism Corridors and Bézier Curves**|Srujan Deolasee, Qin Lin, Jialun Li, John M. Dolan|[2209.15150v1](http://arxiv.org/abs/2209.15150v1)|null|
 |**2022-09-29**|**NVRadarNet: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving**|Alexander Popov, Patrik Gebhardt, Ke Chen, Ryan Oldja, Heeseok Lee, Shane Murray, Ruchi Bhargava, Nikolai Smolyanskiy|[2209.14499v1](http://arxiv.org/abs/2209.14499v1)|null|
@@ -62,7 +63,6 @@
 |**2022-09-19**|**Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving Under Static and Dynamic Obstacle Constraints**|Rowan Dempster, Mohammad Al-Sharman, Derek Rayside, William Melek|[2209.09320v1](http://arxiv.org/abs/2209.09320v1)|null|
 |**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth, Jing Liang, Ram Sriram, Elham Tabassi, Dinesh Manocha|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|null|
 |**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian, Zihong Yan, Xuanang Lei, Zihong Lu, Bin Lan, Xueqian Wang, Bin Liang|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|**[link](https://github.com/jianzhuozhuthu/mpc-d-cbf)**|
-|**2022-09-17**|**A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera**|Zhefan Xu, Xiaoyang Zhan, Baihan Chen, Yumeng Xiu, Chenhao Yang, Kenji Shimada|[2209.08258v1](http://arxiv.org/abs/2209.08258v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
