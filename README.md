@@ -1,6 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi, Malik Mallem, Lotfi Beji|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
+|**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
+|**2022-10-15**|**Self-Improving SLAM in Dynamic Environments: Learning When to Mask**|Adrian Bojko, Romain Dupont, Mohamed Tamaazousti, Hervé Le Borgne|[2210.08350v1](http://arxiv.org/abs/2210.08350v1)|null|
 |**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti, Arvind Thamilchelvan, Hanumant Singh|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
 |**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu, Sha Lu, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He, Jiang Wang, Daobilige Su, Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, Youfu Li, He Kong|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
@@ -8,9 +11,6 @@
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao, Li Li, Xiaodi Li, Jian Yao|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 |**2022-10-11**|**Multi-Object Navigation with dynamically learned neural implicit representations**|Pierre Marza, Laetitia Matignon, Olivier Simonin, Christian Wolf|[2210.05129v1](http://arxiv.org/abs/2210.05129v1)|null|
 |**2022-10-10**|**Spectral Sparsification for Communication-Efficient Collaborative Rotation and Translation Estimation**|Yulun Tian, Jonathan P. How|[2210.05020v2](http://arxiv.org/abs/2210.05020v2)|null|
-|**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen, Jianru Xue, Jianwu Fang, Yuxin Pan, Nanning Zheng|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
-|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa, Tim Verbelen, Ilja Ocket, André Bourdoux, Hichem Sahli, Francky Catthoor, Georges Gielen|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
-|**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia, Joseph Morales, Kevin J. Doherty, David M. Rosen, John J. Leonard|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-16**|**Learning-based Motion Planning in Dynamic Environments Using GNNs and Temporal Encoding**|Ruipeng Zhang, Chenning Yu, Jingkai Chen, Chuchu Fan, Sicun Gao|[2210.08408v1](http://arxiv.org/abs/2210.08408v1)|null|
 |**2022-10-07**|**Real-Time Navigation for Bipedal Robots in Dynamic Environments**|Octavian A. Donca, Chayapol Beokhaimook, Ayonga Hereid|[2210.03280v1](http://arxiv.org/abs/2210.03280v1)|null|
 |**2022-10-05**|**Density Planner: Minimizing Collision Risk in Motion Planning with Dynamic Obstacles using Density-based Reachability**|Laura Lützow, Yue Meng, Andres Chavez Armijos, Chuchu Fan|[2210.02131v1](http://arxiv.org/abs/2210.02131v1)|**[link](https://github.com/MIT-REALM/density_planner)**|
 |**2022-09-30**|**Spatio-temporal Motion Planning for Autonomous Vehicles with Trapezoidal Prism Corridors and Bézier Curves**|Srujan Deolasee, Qin Lin, Jialun Li, John M. Dolan|[2209.15150v1](http://arxiv.org/abs/2209.15150v1)|null|
@@ -62,7 +63,6 @@
 |**2022-09-26**|**Edge-assisted Collaborative Digital Twin for Safety-Critical Robotics in Industrial IoT**|Sumit K. Das, Mohammad Helal Uddin, Sabur Baidya|[2209.12854v1](http://arxiv.org/abs/2209.12854v1)|null|
 |**2022-09-19**|**Real-Time Unified Trajectory Planning and Optimal Control for Urban Autonomous Driving Under Static and Dynamic Obstacle Constraints**|Rowan Dempster, Mohammad Al-Sharman, Derek Rayside, William Melek|[2209.09320v1](http://arxiv.org/abs/2209.09320v1)|null|
 |**2022-09-19**|**MSVIPER: Improved Policy Distillation for Reinforcement-Learning-Based Robot Navigation**|Aaron M. Roth, Jing Liang, Ram Sriram, Elham Tabassi, Dinesh Manocha|[2209.09079v1](http://arxiv.org/abs/2209.09079v1)|null|
-|**2022-09-18**|**Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot**|Zhuozhu Jian, Zihong Yan, Xuanang Lei, Zihong Lu, Bin Lan, Xueqian Wang, Bin Liang|[2209.08539v1](http://arxiv.org/abs/2209.08539v1)|**[link](https://github.com/jianzhuozhuthu/mpc-d-cbf)**|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
