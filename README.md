@@ -1,7 +1,9 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
+|**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong, Yuhua Qi, Zhiqiang Chen, Jin Wu, Hongbo Chen, Ming Liu|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
+|**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia, Sambhu Harimanas Karumanchi|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi, Jeonghun Park, Nir Shlezinger, Yonina C. Eldar, Namyoon Lee|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi, Malik Mallem, Lotfi Beji|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo, Qun Song, Zhenyu Yan, Rui Tan, Guosheng Lin|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
@@ -9,8 +11,6 @@
 |**2022-10-13**|**Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**|Pushyami Kaveti, Arvind Thamilchelvan, Hanumant Singh|[2210.07315v1](http://arxiv.org/abs/2210.07315v1)|null|
 |**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu, Sha Lu, Jun Wu, Haojian Lu, Qiuguo Zhu, Yiyi Liao, Rong Xiong, Yue Wang|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He, Jiang Wang, Daobilige Su, Kazuhiro Nakadai, Junfeng Wu, Shoudong Huang, Youfu Li, He Kong|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
-|**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison, Nathan Stacey, Simone D'Amico|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
-|**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao, Li Li, Xiaodi Li, Jian Yao|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
 |**2022-10-19**|**Estimating the coverage in 3d reconstructions of the colon from colonoscopy videos**|Emmanuelle Muhlethaler, Erez Posner, Moshe Bouhnik|[2210.10459v1](http://arxiv.org/abs/2210.10459v1)|null|
 |**2022-10-12**|**RAMP: A Risk-Aware Mapping and Planning Pipeline for Fast Off-Road Ground Robot Navigation**|Lakshay Sharma, Michael Everett, Donggun Lee, Xiaoyi Cai, Philip Osteen, Jonathan P. How|[2210.06605v1](http://arxiv.org/abs/2210.06605v1)|null|
 |**2022-10-05**|**Depth Is All You Need for Monocular 3D Detection**|Dennis Park, Jie Li, Dian Chen, Vitor Guizilini, Adrien Gaidon|[2210.02493v1](http://arxiv.org/abs/2210.02493v1)|null|
@@ -49,7 +50,6 @@
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 |**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v2](http://arxiv.org/abs/2208.06999v2)|**[link](https://github.com/wenchao-m/how-3d)**|
 |**2022-06-27**|**Representing motion as a sequence of latent primitives, a flexible approach for human motion modelling**|Mathieu Marsot, Stefanie Wuhrer, Jean-Sebastien Franco, Anne Hélène Olivier|[2206.13142v2](http://arxiv.org/abs/2206.13142v2)|null|
-|**2022-06-22**|**Hellinger-Kantorovich barycenter between Dirac measures**|Mauro Bonafini, Olga Minevich, Bernhard Schmitzer|[2206.11211v1](http://arxiv.org/abs/2206.11211v1)|null|
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
