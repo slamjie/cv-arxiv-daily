@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun, Christopher Gilliam, Kamran Ghorbani, Glenn Matthews, Beth Jelfs|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang, Yifan Duan, Xiaoran Fan, Chengzhen Meng, Jianmin Ji, Yanyong Zhang|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng, Yuhua Qi, Shipeng Zhong, Zhiqiang Chen, Yudu Jiao, Qiming Chen, Tao Jiang, Hongbo Chen|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol, John J. Leonard, Luca Carlone|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
@@ -10,7 +11,6 @@
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong, Yuhua Qi, Zhiqiang Chen, Jin Wu, Hongbo Chen, Ming Liu|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia, Sambhu Harimanas Karumanchi|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
 |**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
-|**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi, Jeonghun Park, Nir Shlezinger, Yonina C. Eldar, Namyoon Lee|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
