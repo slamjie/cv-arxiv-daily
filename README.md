@@ -1,6 +1,8 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama, Nícolas S. Rosa, Valdir Grassi Jr|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon, Jeongyun Kim, Jee-Hwan Ryu, Ayoung Kim|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun, Christopher Gilliam, Kamran Ghorbani, Glenn Matthews, Beth Jelfs|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang, Yifan Duan, Xiaoran Fan, Chengzhen Meng, Jianmin Ji, Yanyong Zhang|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng, Yuhua Qi, Shipeng Zhong, Zhiqiang Chen, Yudu Jiao, Qiming Chen, Tao Jiang, Hongbo Chen|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
@@ -9,11 +11,10 @@
 |**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis, Panagiotis Mermigkas, Petros Maragos|[2210.12756v2](http://arxiv.org/abs/2210.12756v2)|null|
 |**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen, Xiaodong Zhao, Minmin Liu, Linlin Shen|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong, Yuhua Qi, Zhiqiang Chen, Jin Wu, Hongbo Chen, Ming Liu|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
-|**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia, Sambhu Harimanas Karumanchi|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani, Hriday Bavle, Jose Luis Sanchez-Lopez, Holger Voos|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**A comparison of uncertainty estimation approaches for DNN-based camera localization**|Matteo Vaghi, Augusto Luis Ballardini, Simone Fontana, Domenico Giorgio Sorrenti|[2211.01234v1](http://arxiv.org/abs/2211.01234v1)|null|
 |**2022-08-07**|**CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization**|Yujiao Shi, Xin Yu, Shan Wang, Hongdong Li|[2208.03660v1](http://arxiv.org/abs/2208.03660v1)|null|
 |**2022-07-13**|**Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras**|Fangwen Shu, Jiaxuan Wang, Alain Pagani, Didier Stricker|[2207.06058v2](http://arxiv.org/abs/2207.06058v2)|**[link](https://github.com/peterfws/structure-plp-slam)**|
 |**2022-04-28**|**Spatio-Temporal Graph Localization Networks for Image-based Navigation**|Takahiro Niwa, Shun Taguchi, Noriaki Hirose|[2204.13237v1](http://arxiv.org/abs/2204.13237v1)|null|
@@ -23,7 +24,6 @@
 |**2022-01-15**|**A Critical Analysis of Image-based Camera Pose Estimation Techniques**|Meng Xu, Youchen Wang, Bin Xu, Jun Zhang, Jian Ren, Stefan Poslad, Pengfei Xu|[2201.05816v1](http://arxiv.org/abs/2201.05816v1)|null|
 |**2021-12-23**|**NinjaDesc: Content-Concealing Visual Descriptors via Adversarial Learning**|Tony Ng, Hyo Jin Kim, Vincent Lee, Daniel DeTone, Tsun-Yi Yang, Tianwei Shen, Eddy Ilg, Vassileios Balntas, Krystian Mikolajczyk, Chris Sweeney|[2112.12785v2](http://arxiv.org/abs/2112.12785v2)|null|
 |**2021-12-05**|**RADA: Robust Adversarial Data Augmentation for Camera Localization in Challenging Weather**|Jialu Wang, Muhamad Risqi U. Saputra, Chris Xiaoxuan Lu, Niki Trigon, Andrew Markham|[2112.02469v1](http://arxiv.org/abs/2112.02469v1)|null|
-|**2021-09-20**|**ShapeMap 3-D: Efficient shape mapping through dense touch and vision**|Sudharshan Suresh, Zilin Si, Joshua G. Mangelson, Wenzhen Yuan, Michael Kaess|[2109.09884v3](http://arxiv.org/abs/2109.09884v3)|**[link](https://github.com/cmurobotouch/ycb-sight)**|
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -40,6 +40,7 @@
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-02**|**Cluster-Based Autoencoders for Volumetric Point Clouds**|Stephan Antholzer, Martin Berger, Tobias Hell|[2211.01009v1](http://arxiv.org/abs/2211.01009v1)|**[link](https://github.com/antholzer/pointcloudmatcher)**|
 |**2022-10-24**|**SphNet: A Spherical Network for Semantic Pointcloud Segmentation**|Lukas Bernreiter, Lionel Ott, Roland Siegwart, Cesar Cadena|[2210.13992v1](http://arxiv.org/abs/2210.13992v1)|null|
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
 |**2022-10-19**|**Estimating the coverage in 3d reconstructions of the colon from colonoscopy videos**|Emmanuelle Muhlethaler, Erez Posner, Moshe Bouhnik|[2210.10459v1](http://arxiv.org/abs/2210.10459v1)|null|
@@ -49,7 +50,6 @@
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora, Javier Ruiz-Hidalgo|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
 |**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
-|**2022-08-15**|**HoW-3D: Holistic 3D Wireframe Perception from a Single Image**|Wenchao Ma, Bin Tan, Nan Xue, Tianfu Wu, Xianwei Zheng, Gui-Song Xia|[2208.06999v2](http://arxiv.org/abs/2208.06999v2)|**[link](https://github.com/wenchao-m/how-3d)**|
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
