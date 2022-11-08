@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson, Martin Magnusson, Anas Alhashimi, Achim J. Lilienthal, Henrik Andreasson|[2211.02445v1](http://arxiv.org/abs/2211.02445v1)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud, Wei Sun|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen, Leyuan Sun, Mehdi Benallegue, Rafael Cisneros, Rohan P. Singh, Kenji Kaneko, Arnaud Tanguy, Guillaume Caron, Kenji Suzuki, Abderrahmane Kheddar, Fumio Kanehiro|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
-|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu, Peize Liu, Xinyi Chen, Shaojie Shen|[2211.01538v1](http://arxiv.org/abs/2211.01538v1)|null|
+|**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu, Peize Liu, Xinyi Chen, Shaojie Shen|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama, Nícolas S. Rosa, Valdir Grassi Jr|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
 |**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon, Jeongyun Kim, Jee-Hwan Ryu, Ayoung Kim|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun, Christopher Gilliam, Kamran Ghorbani, Glenn Matthews, Beth Jelfs|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang, Yifan Duan, Xiaoran Fan, Chengzhen Meng, Jianmin Ji, Yanyong Zhang|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng, Yuhua Qi, Shipeng Zhong, Zhiqiang Chen, Yudu Jiao, Qiming Chen, Tao Jiang, Hongbo Chen|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol, John J. Leonard, Luca Carlone|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
-|**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang, Stephen A. Boppart, Haohua Tu|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
