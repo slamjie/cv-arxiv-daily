@@ -1,16 +1,16 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson, Martin Magnusson, Anas Alhashimi, Achim J. Lilienthal, Henrik Andreasson|[2211.02445v1](http://arxiv.org/abs/2211.02445v1)|**[link](https://github.com/dan11003/CFEAR_Radarodometry)**|
+|**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz, Sebastian A. Scherer, Peter Biber, David Fleer|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
+|**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch, Gerhard Kurz, Peter Biber|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
+|**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, Heiner Kuhlmann|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
+|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson, Martin Magnusson, Anas Alhashimi, Achim J. Lilienthal, Henrik Andreasson|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/cfear_evaluation)**|
 |**2022-11-03**|**DyOb-SLAM : Dynamic Object Tracking SLAM System**|Rushmian Annoy Wadud, Wei Sun|[2211.01941v1](http://arxiv.org/abs/2211.01941v1)|null|
 |**2022-11-03**|**Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**|Yang Chen, Leyuan Sun, Mehdi Benallegue, Rafael Cisneros, Rohan P. Singh, Kenji Kaneko, Arnaud Tanguy, Guillaume Caron, Kenji Suzuki, Abderrahmane Kheddar, Fumio Kanehiro|[2211.01749v1](http://arxiv.org/abs/2211.01749v1)|null|
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu, Peize Liu, Xinyi Chen, Shaojie Shen|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama, Nícolas S. Rosa, Valdir Grassi Jr|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
 |**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon, Jeongyun Kim, Jee-Hwan Ryu, Ayoung Kim|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun, Christopher Gilliam, Kamran Ghorbani, Glenn Matthews, Beth Jelfs|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
-|**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang, Yifan Duan, Xiaoran Fan, Chengzhen Meng, Jianmin Ji, Yanyong Zhang|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
-|**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng, Yuhua Qi, Shipeng Zhong, Zhiqiang Chen, Yudu Jiao, Qiming Chen, Tao Jiang, Hongbo Chen|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
-|**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol, John J. Leonard, Luca Carlone|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,6 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-06**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang, Ching-Huai Yang, Chen-Tao Hsu, Jen-Hui Chuang|[2211.03007v1](http://arxiv.org/abs/2211.03007v1)|null|
 |**2022-11-02**|**Optimizing Fiducial Marker Placement for Improved Visual Localization**|Qiangqiang Huang, Joseph DeGol, Victor Fragoso, Sudipta N. Sinha, John J. Leonard|[2211.01513v1](http://arxiv.org/abs/2211.01513v1)|null|
 |**2022-10-18**|**A Real-Time Fusion Framework for Long-term Visual Localization**|Yuchen Yang, Xudong Zhang, Shuang Gao, Jixiang Wan, Yishan Ping, Yuyue Liu, Jijunnan Li, Yandong Guo|[2210.09757v1](http://arxiv.org/abs/2210.09757v1)|null|
 |**2022-09-27**|**Learning-Based Dimensionality Reduction for Computing Compact and Effective Local Feature Descriptors**|Hao Dong, Xieyuanli Chen, Mihai Dusmanu, Viktor Larsson, Marc Pollefeys, Cyrill Stachniss|[2209.13586v1](http://arxiv.org/abs/2209.13586v1)|**[link](https://github.com/prbonn/descriptor-dr)**|
@@ -36,10 +37,10 @@
 |**2022-09-04**|**CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud**|Evgeny Yudin, Pavel Karpyshev, Mikhail Kurenkov, Alena Savinykh, Andrei Potapov, Evgeny Kruzhkov, Dzmitry Tsetserukou|[2209.01605v1](http://arxiv.org/abs/2209.01605v1)|null|
 |**2022-08-14**|**Visual Localization via Few-Shot Scene Region Classification**|Siyan Dong, Shuzhe Wang, Yixin Zhuang, Juho Kannala, Marc Pollefeys, Baoquan Chen|[2208.06933v1](http://arxiv.org/abs/2208.06933v1)|**[link](https://github.com/siyandong/src)**|
 |**2022-08-13**|**Finding Point with Image: An End-to-End Benchmark for Vision-based UAV Localization**|Ming Dai, Jiahao Chen, Yusheng Lu, Wenlong Hao, Enhui Zheng|[2208.06561v1](http://arxiv.org/abs/2208.06561v1)|null|
-|**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda, Yoshihiro Fukuhara, Hirokatsu Kataoka, Hiroaki Aizawa, Hidehiko Shishido, Itaru Kitahara|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 ## PointCloud
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**3D Harmonic Loss: Towards Task-consistent and Time-friendly 3D Object Detection on Edge for Intelligent Transportation System**|Haolin Zhang, M S Mekala, Zulkar Nain, Ju H. Park, Ho-Youl Jung|[2211.03407v1](http://arxiv.org/abs/2211.03407v1)|**[link](https://github.com/XJTU-Haolin/TT3D)**|
 |**2022-11-02**|**Cluster-Based Autoencoders for Volumetric Point Clouds**|Stephan Antholzer, Martin Berger, Tobias Hell|[2211.01009v1](http://arxiv.org/abs/2211.01009v1)|**[link](https://github.com/antholzer/pointcloudmatcher)**|
 |**2022-10-24**|**SphNet: A Spherical Network for Semantic Pointcloud Segmentation**|Lukas Bernreiter, Lionel Ott, Roland Siegwart, Cesar Cadena|[2210.13992v1](http://arxiv.org/abs/2210.13992v1)|null|
 |**2022-10-21**|**HDHumans: A Hybrid Approach for High-fidelity Digital Humans**|Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt|[2210.12003v1](http://arxiv.org/abs/2210.12003v1)|null|
@@ -49,7 +50,6 @@
 |**2022-10-03**|**A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**|Ha Sier, Li Qingqing, Yu Xianjia, Jorge Peña Queralta, Zhuo Zou, Tomi Westerlund|[2210.00812v1](http://arxiv.org/abs/2210.00812v1)|**[link](https://github.com/tiers/tiers-lidars-dataset-enhanced)**|
 |**2022-09-29**|**DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**|Mariia Gladkova, Nikita Korobov, Nikolaus Demmel, Aljoša Ošep, Laura Leal-Taixé, Daniel Cremers|[2209.14965v1](http://arxiv.org/abs/2209.14965v1)|null|
 |**2022-09-02**|**Learning task-specific features for 3D pointcloud graph creation**|Elías Abad-Rocamora, Javier Ruiz-Hidalgo|[2209.00949v1](http://arxiv.org/abs/2209.00949v1)|null|
-|**2022-08-18**|**Stable Object Reorientation using Contact Plane Registration**|Richard Li, Carlos Esteves, Ameesh Makadia, Pulkit Agrawal|[2208.08962v1](http://arxiv.org/abs/2208.08962v1)|null|
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
