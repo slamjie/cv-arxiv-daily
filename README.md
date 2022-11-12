@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba, Marco Chella, Aldo Teran, Niklas Rolleberg, John Folkesson|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz, Sebastian A. Scherer, Peter Biber, David Fleer|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch, Gerhard Kurz, Peter Biber|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
 |**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, Heiner Kuhlmann|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
@@ -10,7 +11,6 @@
 |**2022-11-03**|**$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**|Hao Xu, Peize Liu, Xinyi Chen, Shaojie Shen|[2211.01538v2](http://arxiv.org/abs/2211.01538v2)|null|
 |**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama, Nícolas S. Rosa, Valdir Grassi Jr|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
 |**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon, Jeongyun Kim, Jee-Hwan Ryu, Ayoung Kim|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
-|**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun, Christopher Gilliam, Kamran Ghorbani, Glenn Matthews, Beth Jelfs|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-09**|**Vision-based navigation and obstacle avoidance via deep reinforcement learning**|Paul Blum, Peter Crowley, George Lykotrafitis|[2211.05243v1](http://arxiv.org/abs/2211.05243v1)|null|
 |**2022-11-03**|**Benchmarking local motion planners for navigation of mobile manipulators**|Sevag Tafnakaji, Hadi Hajieghrary, Quentin Teixeira, Yasemin Bekiroglu|[2211.01812v1](http://arxiv.org/abs/2211.01812v1)|**[link](https://github.com/sevag-tafnakaji/local_planner_benchmarking)**|
 |**2022-10-24**|**Optimization-Based Motion Planning for Autonomous Parking Considering Dynamic Obstacle: A Hierarchical Framework**|Xuemin Chi, Zhitao Liu, Jihao Huang, Feng Hong, Hongye Su|[2210.13112v1](http://arxiv.org/abs/2210.13112v1)|null|
 |**2022-10-19**|**Provably Safe Reinforcement Learning via Action Projection using Reachability Analysis and Polynomial Zonotopes**|Niklas Kochdumper, Hanna Krasowski, Xiao Wang, Stanley Bak, Matthias Althoff|[2210.10691v1](http://arxiv.org/abs/2210.10691v1)|null|
@@ -62,7 +63,6 @@
 |**2022-09-30**|**Spatio-temporal Motion Planning for Autonomous Vehicles with Trapezoidal Prism Corridors and Bézier Curves**|Srujan Deolasee, Qin Lin, Jialun Li, John M. Dolan|[2209.15150v1](http://arxiv.org/abs/2209.15150v1)|null|
 |**2022-09-29**|**NVRadarNet: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving**|Alexander Popov, Patrik Gebhardt, Ke Chen, Ryan Oldja, Heeseok Lee, Shane Murray, Ruchi Bhargava, Nikolai Smolyanskiy|[2209.14499v1](http://arxiv.org/abs/2209.14499v1)|null|
 |**2022-09-28**|**Obstacle Identification and Ellipsoidal Decomposition for Fast Motion Planning in Unknown Dynamic Environments**|Mehmetcan Kaymaz, Nazim Kemal Ure|[2209.14233v1](http://arxiv.org/abs/2209.14233v1)|null|
-|**2022-09-27**|**Intercepting A Flying Target While Avoiding Moving Obstacles: A Unified Control Framework With Deep Manifold Learning**|Apan Dastider, Mingjie Lin|[2209.13628v1](http://arxiv.org/abs/2209.13628v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
