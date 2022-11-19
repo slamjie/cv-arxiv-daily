@@ -1,6 +1,7 @@
 ## SLAM
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger, Alexander Venus, Bryan Teague, Florian Meyer|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu, Lilian Zhang, Xiaoping Hu, Xiaofeng He, Xianfei Pan, Changhao Chen|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu, Hao Li, Wen Yang, Lei Yu, Gui-Song Xia|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan, Chinmay Garg, Haoyang He, Shravan Kumar Gulvadi, Sandeep Keshavegowda|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
@@ -10,7 +11,6 @@
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz, Sebastian A. Scherer, Peter Biber, David Fleer|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
 |**2022-11-07**|**Detecting Invalid Map Merges in Lifelong SLAM**|Matthias Holoch, Gerhard Kurz, Peter Biber|[2211.03423v1](http://arxiv.org/abs/2211.03423v1)|null|
 |**2022-11-06**|**Wheel-SLAM: Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU**|Yibin Wu, Jian Kuang, Xiaoji Niu, Jens Behley, Lasse Klingbeil, Heiner Kuhlmann|[2211.03174v1](http://arxiv.org/abs/2211.03174v1)|null|
-|**2022-11-04**|**Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**|Daniel Adolfsson, Martin Magnusson, Anas Alhashimi, Achim J. Lilienthal, Henrik Andreasson|[2211.02445v2](http://arxiv.org/abs/2211.02445v2)|**[link](https://github.com/dan11003/cfear_evaluation)**|
 ## Camera Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -27,7 +27,7 @@
 ## Visual Localization
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-16**|**Improving Feature-based Visual Localization by Geometry-Aided Matching**|Hailin Yu, Youji Feng, Weicai Ye, Mingxuan Jiang, Hujun Bao, Guofeng Zhang|[2211.08712v1](http://arxiv.org/abs/2211.08712v1)|null|
+|**2022-11-16**|**Improving Feature-based Visual Localization by Geometry-Aided Matching**|Hailin Yu, Youji Feng, Weicai Ye, Mingxuan Jiang, Hujun Bao, Guofeng Zhang|[2211.08712v1](http://arxiv.org/abs/2211.08712v1)|**[link](https://github.com/openxrlab/xrlocalization)**|
 |**2022-11-15**|**LiePoseNet: Heterogeneous Loss Function Based on Lie Group for Significant Speed-up of PoseNet Training Process**|Mikhail Kurenkov, Ivan Kalinov, Dzmitry Tsetserukou|[2211.08480v1](http://arxiv.org/abs/2211.08480v1)|null|
 |**2022-11-14**|**Degeneracy removal of spin bands in antiferromagnets with non-interconvertible spin motif pair**|Lin-Ding Yuan, Alex Zunger|[2211.07803v1](http://arxiv.org/abs/2211.07803v1)|null|
 |**2022-11-06**|**A Geometrically Constrained Point Matching based on View-invariant Cross-ratios, and Homography**|Yueh-Cheng Huang, Ching-Huai Yang, Chen-Tao Hsu, Jen-Hui Chuang|[2211.03007v1](http://arxiv.org/abs/2211.03007v1)|null|
@@ -53,6 +53,7 @@
 ## dynamic obstacle
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**Occlusion-Aware MPC for Guaranteed Safe Robot Navigation with Unseen Dynamic Obstacles**|Roya Firoozi, Alexandre Mir, Gadi Sznaier Camps, Mac Schwager|[2211.09156v1](http://arxiv.org/abs/2211.09156v1)|null|
 |**2022-11-09**|**Vision-based navigation and obstacle avoidance via deep reinforcement learning**|Paul Blum, Peter Crowley, George Lykotrafitis|[2211.05243v1](http://arxiv.org/abs/2211.05243v1)|null|
 |**2022-11-03**|**Benchmarking local motion planners for navigation of mobile manipulators**|Sevag Tafnakaji, Hadi Hajieghrary, Quentin Teixeira, Yasemin Bekiroglu|[2211.01812v1](http://arxiv.org/abs/2211.01812v1)|**[link](https://github.com/sevag-tafnakaji/local_planner_benchmarking)**|
 |**2022-10-24**|**Optimization-Based Motion Planning for Autonomous Parking Considering Dynamic Obstacle: A Hierarchical Framework**|Xuemin Chi, Zhitao Liu, Jihao Huang, Feng Hong, Hongye Su|[2210.13112v1](http://arxiv.org/abs/2210.13112v1)|null|
@@ -62,7 +63,6 @@
 |**2022-10-05**|**Density Planner: Minimizing Collision Risk in Motion Planning with Dynamic Obstacles using Density-based Reachability**|Laura Lützow, Yue Meng, Andres Chavez Armijos, Chuchu Fan|[2210.02131v1](http://arxiv.org/abs/2210.02131v1)|**[link](https://github.com/MIT-REALM/density_planner)**|
 |**2022-09-30**|**Spatio-temporal Motion Planning for Autonomous Vehicles with Trapezoidal Prism Corridors and Bézier Curves**|Srujan Deolasee, Qin Lin, Jialun Li, John M. Dolan|[2209.15150v1](http://arxiv.org/abs/2209.15150v1)|null|
 |**2022-09-29**|**NVRadarNet: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving**|Alexander Popov, Patrik Gebhardt, Ke Chen, Ryan Oldja, Heeseok Lee, Shane Murray, Ruchi Bhargava, Nikolai Smolyanskiy|[2209.14499v1](http://arxiv.org/abs/2209.14499v1)|null|
-|**2022-09-28**|**Obstacle Identification and Ellipsoidal Decomposition for Fast Motion Planning in Unknown Dynamic Environments**|Mehmetcan Kaymaz, Nazim Kemal Ure|[2209.14233v1](http://arxiv.org/abs/2209.14233v1)|null|
 ## obstacle perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
